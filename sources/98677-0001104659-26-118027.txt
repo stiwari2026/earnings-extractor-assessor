@@ -1,0 +1,48 @@
+Company: TOOTSIE ROLL INDUSTRIES INC (CIK 98677)
+Accession: 0001104659-26-118027
+Results released: 2026-10-22
+Press release: https://www.sec.gov/Archives/edgar/data/98677/000110465926118027/tr-ex99d1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/98677/000110465926118027/0001104659-26-118027-index.htm
+Saved: 2026-10-25T22:23:14+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 tr-ex99d1.htm EX-99.1
+Exhibit 99.1
+TOOTSIE ROLL INDUSTRIES, INC.
+7401 South Cicero Avenue
+Chicago, IL 60629
+Phone 773/838-3400
+Fax 773/838-3534
+PRESS RELEASE
+STOCK TRADED: NYSE | FOR IMMEDIATE RELEASE
+TICKER SYMBOL: TR | Wednesday, October 21, 2026
+CHICAGO, ILLINOIS – October 21, 2026 - Ellen R. Gordon, Chairman, Tootsie Roll Industries, Inc. reported third quarter and nine months 2026 net sales and net earnings.
+Third quarter 2026 net sales were $227,163,000 compared to $230,614,000 in third quarter 2025, a decrease of $3,451,000 or 1%. Third quarter 2026 net earnings were $23,216,000 compared to $35,659,000 in third quarter 2025, and net earnings per share were $0.31 and $0.48 in third quarter 2026 and 2025, respectively, a decrease of $0.17 per share or 35%.
+Nine months 2026 net sales were $528,594,000 compared to $530,325,000 in nine months 2025, a decrease of $1,731,000. Nine months 2026 net earnings were $54,224,000 compared to $71,261,000 in nine months 2025, and net earnings per share were $0.72 and $0.95 in nine months 2026 and 2025, respectively, a decrease of $0.23 per share or 24%.
+Mrs. Gordon said, “Third quarter and nine months 2026 were adversely impacted by the timing of sales, including seasonal Halloween sales, between third and fourth quarter 2026 when compared to the prior year’s corresponding quarterly periods. We are focused on the long term and are continuing our higher support levels of our brands with increased trade promotions, as well as advertising. Because trade promotions are accounted for as a reduction in reported net sales, these higher levels of trade promotions had some adverse effects on our reported net sales for third quarter and nine months 2026.
+In addition to the timing impact of sales between the third and fourth quarters as discussed above, third quarter and nine months 2026 gross margins were adversely affected by higher unit costs for ingredients, primarily cocoa and chocolate, and packaging materials. However, our cocoa and chocolate costs were more favorable in third quarter 2026 compared to first half 2026 and we expect this to continue in fourth quarter 2026. Cocoa commodities markets have retreated from their extraordinarily high price levels in 2025 but remain well above historical levels. Higher energy costs have driven increases in unit costs for resin-based packaging materials which contributed to higher packaging costs primarily beginning in third quarter 2026. Increased costs, including the effects of inflation, for plant labor and benefits, maintenance, and supplies also had an adverse effect on margins in third quarter and nine months 2026 compared to the corresponding periods in the prior year.
+During third quarter and nine months 2026, elevated energy costs also contributed to significant increases in freight and delivery expenses, reflecting higher fuel surcharges driven by the increase in cost of diesel fuel. This cost increase accelerated in third quarter 2026 and we expect freight and delivery costs to remain elevated through fourth quarter 2026 and likely into 2027. Although the Company continues to monitor its input costs, we are mindful of the effects and limits when passing on higher input costs to our customers as well as the final consumers of our products.
+The Company is continuing its higher support levels of its brands this year with increased advertising as well as higher trade promotions as discussed above. The Company’s advertising was significantly increased and concentrated in the third quarter this year. As a result, third quarter and nine months 2026 reflect significantly higher advertising expense compared to the corresponding periods in the prior year.
+On September 1, 2026, the Company acquired a confectionery business principally comprising the Winis brand which is manufactured and sold in Mexico. Management believes that this product line will be complementary to its existing Mexican subsidiary’s confectionery business which manufactures and sells products under the Tutsi brand. The sales and operating results of this acquisition were not material to the reported consolidated sales and operating results for the third quarter and nine months 2026. During third quarter and nine months 2026, the Company recognized approximately $1,300,000 and $2,500,000, respectively, of acquisition related expenses, which had an adverse effect on 2026 reported results when compared to the prior year corresponding periods.
+Third quarter and nine months 2026 net earnings did benefit from some tariff refund recoveries. However, investment income in third quarter and nine months 2026 from the Company’s investments in marketable securities is lower compared to the comparable periods in the prior year. Third quarter and nine months 2025 includes a favorable cumulative adjustment to record bond accretion not previously reported on certain bonds purchased at a discount. The Company’s effective income tax rates were 25.6% and 26.7% in third quarter 2026 and 2025, respectively, and 25.8% and 27.2% in nine months 2026 and 2025, respectively.
+We are focused on the longer term and therefore are continuing to support our brands with higher levels of advertising and trade promotions. We are also continuing to make investments in plant manufacturing operations to meet new customer and consumer product demands, achieve product quality improvements, expand capacity in certain product lines, and increase operational efficiencies in order to provide genuine value to consumers.”
+Safe Harbor Statement
+This release contains forward-looking statements that are based largely on the Company’s current expectations and are made pursuant to the safe harbor provision of the Private Securities Litigation Reform Act of 1995. Forward-looking statements can be identified by the use of words such as “anticipated,” “believe,” “expect,” “intend,” “estimate,” “project,” “plan” and other words of similar meaning in connection with a discussion of future operating or financial performance and are subject to certain factors, risks, trends and uncertainties that could cause actual results and achievements to differ materially from those expressed in the forward-looking statements. Such factors, risks, trends and uncertainties, which in some instances are beyond the Company’s control, include the effects of implementing natural colors in products, including related higher costs and availability of supply, changes in and the effects of U.S. tariffs as well as retaliatory tariffs and other import fees and surcharges by other countries, the ability to recover increases in input costs through price increases, successful distribution and sell-through during Halloween and other seasons, the overall competitive environment in the Company’s industry, and judgments and risk factors discussed in our Annual Report on Form 10-K for the year ended December 31, 2025.
+The risk factors referred to above are believed to be significant factors, but not necessarily all of the significant factors that could cause actual results to differ from those expressed in any forward-looking statement. Readers are cautioned not to place undue reliance on such forward-looking statements, which are made only as of the date of this report. The Company undertakes no obligation to update such forward-looking statements.
+TOOTSIE ROLL INDUSTRIES, INC.
+CONSOLIDATED SUMMARY OF SALES & EARNINGS
+FOR THE PERIODS ENDED
+September 30, 2026 and 2025
+Third Quarter Ended
+2026 | 2025
+Net Sales | $ | 227,163,000 | $ | 230,614,000
+Net Earnings | $ | 23,216,000 | $ | 35,659,000
+Net Earnings Per Share* | $ | 0.31 | $ | 0.48
+Average Shares Outstanding* | 74,806,000 | 75,060,000
+Nine Months Ended
+2026 | 2025
+Net Sales | $ | 528,594,000 | $ | 530,325,000
+Net Earnings | $ | 54,224,000 | $ | 71,261,000
+Net Earnings Per Share* | $ | 0.72 | $ | 0.95
+Average Shares Outstanding* | 74,959,000 | 75,091,000
+* Based on average shares outstanding adjusted for 3% stock dividends distributed April 3, 2026 and April 4, 2025.

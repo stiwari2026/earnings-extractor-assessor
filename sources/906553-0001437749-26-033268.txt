@@ -1,0 +1,190 @@
+Company: BOYD GAMING CORP (CIK 906553)
+Accession: 0001437749-26-033268
+Results released: 2026-10-22
+Press release: https://www.sec.gov/Archives/edgar/data/906553/000143774926033268/ex_996638.htm
+Filing: https://www.sec.gov/Archives/edgar/data/906553/000143774926033268/0001437749-26-033268-index.htm
+Saved: 2026-10-25T22:23:14+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_996638.htm EXHIBIT 99.1
+Exhibit 99.1
+BOYD GAMING REPORTS THIRD-QUARTER 2026 RESULTS
+LAS VEGAS – OCTOBER 22, 2026 – Boyd Gaming Corporation (NYSE: BYD) today reported financial results for the third quarter ended September 30, 2026.
+Keith Smith, President and Chief Executive Officer of Boyd Gaming, said, “Our third-quarter performance continued to highlight the benefits of our diversified business model, the ongoing strength of our core customer and the appeal of our property investments nationwide. During the quarter, our results reflected continued growth in our Midwest & South segment, increased play from southern Nevada residents, and strong gains in both our Online and Managed operations. And while quarterly results were impacted by increased softness in destination business to Las Vegas, primarily affecting our Orleans property, we are encouraged by the continued strength of the remainder of our Las Vegas Locals portfolio and the performance of our Midwest & South segment. Finally, we maintained our balanced approach to capital allocation during the third quarter, investing in growth across our portfolio while returning nearly $180 million to our shareholders through share repurchases and dividends. With our robust free cash flow, strong balance sheet and efficient operating model, our Company is well-positioned to continue creating long-term value for our shareholders.”
+Boyd Gaming reported third-quarter 2026 revenues of $990.5 million, compared to $1.0 billion in the third quarter of 2025. The Company reported net income of $124.9 million, or $1.71 per share, for the third quarter of 2026, compared to $1.4 billion, or $17.81 per share, for the year-ago period. The Company’s net income for the third quarter of 2025 benefited from a $1.4 billion after tax gain from the sale of the Company’s equity interest in FanDuel, and was impacted by $65.1 million in non-cash, pretax long-lived asset impairment charges.
+Total Adjusted EBITDAR(1) was $319.6 million in the third quarter of 2026 versus $321.8 million in the third quarter of 2025. Adjusted Earnings(1) for the third quarter of 2026 were $121.7 million, or $1.67 per share, compared to $139.1 million, or $1.72 per share, for the same period in 2025.
+(1) | See footnotes at the end of the release for additional information relative to non-GAAP financial measures.
+1
+Operations Review
+During the third quarter, results in the Midwest & South segment were impacted by the closure of Sam’s Town Tunica in November 2025, the sale of Sam’s Town Shreveport in August 2026, and higher property taxes at Kansas Star. Adjusting for these items, Midwest & South revenues increased nearly 3% and Adjusted EBITDAR grew approximately 2.5% during the third quarter. Continued growth in play from core and retail customers and benefits from recent capital investments drove increases in adjusted gaming revenue in the Midwest & South segment. In the Company's Las Vegas Locals segment, results reflected increased softness in Las Vegas destination business, primarily at the Orleans, as well as construction disruption at the Suncoast; however, the remainder of the properties in this segment achieved revenue and Adjusted EBITDAR growth of 3%, with gaming revenue gains of 3.5%, highlighted by increased play from southern Nevada residents. Downtown Las Vegas results were impacted by increased softness in Las Vegas destination business, declines in Hawaiian visitation due to several major storms in Hawaii and higher airfares during the quarter.
+The Online segment and Managed & Other both continued to grow during the third quarter. Double-digit Adjusted EBITDAR growth in the Online segment was driven by continued strength in the Company’s online casino gaming business. Growth in Managed & Other reflected increased management fees from Sky River following its recently completed expansion.
+Dividend and Share Repurchase Update
+Boyd Gaming paid a quarterly cash dividend of $0.20 per share on October 15, 2026, as previously announced.
+As part of its ongoing share repurchase program, the Company repurchased $164 million in shares of its common stock during the third quarter of 2026. The Company had $387 million remaining under its current share repurchase authorization as of September 30, 2026.
+Balance Sheet Statistics
+As of September 30, 2026, Boyd Gaming had cash on hand of $297.2 million, and total debt of $2.7 billion.
+Conference Call Information
+Boyd Gaming will host a conference call to discuss its third-quarter 2026 results today, October 22, at 5:00 p.m. Eastern. The conference call number is (866) 652-5200, passcode 629480. Please call up to 15 minutes in advance to ensure you are connected prior to the start of the call.
+The conference call will also be available online at https://investors.boydgaming.com or https://app.webinar.net/7XDKZDdZVE2.
+Following the call’s completion, a replay will be available by dialing (855) 669-9658 today, October 22, and continuing through Thursday, October 29. The passcode for the replay will be 8824606. The replay will also be available at https://investors.boydgaming.com.
+2
+BOYD GAMING CORPORATION
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+(In thousands, except per share data) | 2026 | 2025 | 2026 | 2025
+Revenues
+Gaming | $ | 655,026 | $ | 657,371 | $ | 1,988,816 | $ | 1,967,519
+Food & beverage | 73,744 | 75,570 | 227,216 | 227,895
+Room | 43,109 | 45,244 | 139,469 | 144,085
+Online | 33,240 | 26,893 | 91,313 | 106,000
+Online reimbursements | 121,226 | 138,704 | 383,030 | 402,221
+Management fee | 27,581 | 23,697 | 82,283 | 72,618
+Other | 36,529 | 36,882 | 110,069 | 109,586
+Total revenues | 990,455 | 1,004,361 | 3,022,196 | 3,029,924
+Operating costs and expenses
+Gaming | 262,638 | 259,660 | 785,117 | 765,337
+Food & beverage | 65,635 | 67,468 | 197,530 | 196,438
+Room | 19,714 | 19,486 | 58,687 | 57,975
+Online | 22,044 | 17,784 | 60,706 | 50,392
+Online reimbursements | 121,226 | 138,704 | 383,030 | 402,221
+Other | 12,519 | 13,076 | 38,191 | 38,016
+Selling, general and administrative | 105,370 | 104,005 | 326,237 | 321,916
+Master lease rent expense (a) | 28,993 | 28,584 | 86,433 | 85,186
+Maintenance and utilities | 41,078 | 40,472 | 115,336 | 114,519
+Depreciation and amortization | 91,267 | 73,749 | 277,357 | 211,957
+Corporate expense | 29,386 | 30,622 | 99,413 | 95,938
+Project development, preopening and writedowns | (5,356 | ) | 3,972 | 30,268 | 5,214
+Impairment of assets | — | 65,123 | — | 97,395
+Other operating items, net | 1,039 | 1,892 | 4,299 | 5,399
+Total operating costs and expenses | 795,553 | 864,597 | 2,462,604 | 2,447,903
+Operating income | 194,902 | 139,764 | 559,592 | 582,021
+Other expense (income)
+Interest income | (1,261 | ) | (1,501 | ) | (4,408 | ) | (3,572 | )
+Interest expense, net of amounts capitalized | 33,785 | 33,262 | 93,659 | 132,268
+Loss on early extinguishments and modifications of debt | — | 1,446 | 391 | 1,446
+Other, net (b) | 89 | (1,735,479 | ) | 93 | (1,735,420 | )
+Total other (income) expense, net | 32,613 | (1,702,272 | ) | 89,735 | (1,605,278 | )
+Income before income taxes | 162,289 | 1,842,036 | 469,857 | 2,187,299
+Income tax provision | (38,699 | ) | (403,200 | ) | (112,051 | ) | (487,227 | )
+Net income | 123,590 | 1,438,836 | 357,806 | 1,700,072
+Net loss attributable to noncontrolling interest | 1,343 | 1,157 | 3,903 | 2,798
+Net income attributable to Boyd Gaming | $ | 124,933 | $ | 1,439,993 | $ | 361,709 | $ | 1,702,870
+Basic net income per common share | $ | 1.71 | $ | 17.81 | $ | 4.83 | $ | 20.58
+Weighted average basic shares outstanding | 73,048 | 80,860 | 74,864 | 82,740
+Diluted net income per common share | $ | 1.71 | $ | 17.81 | $ | 4.83 | $ | 20.58
+Weighted average diluted shares outstanding | 73,048 | 80,875 | 74,867 | 82,756
+__________________________________________
+(a) Rent expense incurred by those properties subject to a master lease with a real estate investment trust.
+(b) Includes the gain recognized on the sale of the Company's equity interest in FanDuel during the three and nine months ended September 30, 2025.
+3
+BOYD GAMING CORPORATION
+SUPPLEMENTAL INFORMATION
+Reconciliation of Adjusted EBITDA to Net Income Attributable to Boyd Gaming
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+(In thousands) | 2026 | 2025 | 2026 | 2025
+Total Revenues by Segment
+Las Vegas Locals | $ | 207,449 | $ | 210,842 | $ | 650,451 | $ | 662,732
+Downtown Las Vegas | 47,423 | 53,224 | 154,473 | 165,764
+Midwest & South | 540,489 | 538,852 | 1,622,472 | 1,583,516
+Online | 154,466 | 165,597 | 474,343 | 508,221
+Managed & Other | 40,628 | 35,846 | 120,457 | 109,691
+Total revenues | $ | 990,455 | $ | 1,004,361 | $ | 3,022,196 | $ | 3,029,924
+Adjusted EBITDAR by Segment
+Las Vegas Locals | $ | 87,389 | $ | 92,128 | $ | 293,767 | $ | 311,389
+Downtown Las Vegas | 12,853 | 16,118 | 48,658 | 56,446
+Midwest & South | 201,629 | 201,603 | 603,018 | 586,226
+Online | 10,925 | 9,424 | 29,871 | 54,974
+Managed & Other | 29,757 | 26,269 | 88,865 | 79,551
+Corporate expense, net of share-based compensation expense (a) | (22,924 | ) | (23,777 | ) | (76,667 | ) | (71,442 | )
+Adjusted EBITDAR | 319,629 | 321,765 | 987,512 | 1,017,144
+Master lease rent expense (b) | (28,993 | ) | (28,584 | ) | (86,433 | ) | (85,186 | )
+Adjusted EBITDA | 290,636 | 293,181 | 901,079 | 931,958
+Other operating costs and expenses
+Deferred rent | 141 | 147 | 405 | 441
+Depreciation and amortization | 91,267 | 73,749 | 277,357 | 211,957
+Share-based compensation expense | 8,643 | 8,534 | 29,158 | 29,531
+Project development, preopening and writedowns | (5,356 | ) | 3,972 | 30,268 | 5,214
+Impairment of assets | — | 65,123 | — | 97,395
+Other operating items, net | 1,039 | 1,892 | 4,299 | 5,399
+Total other operating costs and expenses | 95,734 | 153,417 | 341,487 | 349,937
+Operating income | 194,902 | 139,764 | 559,592 | 582,021
+Other expense (income)
+Interest income | (1,261 | ) | (1,501 | ) | (4,408 | ) | (3,572 | )
+Interest expense, net of amounts capitalized | 33,785 | 33,262 | 93,659 | 132,268
+Loss on early extinguishments and modifications of debt | — | 1,446 | 391 | 1,446
+Other, net (c) | 89 | (1,735,479 | ) | 93 | (1,735,420 | )
+Total other (income) expense, net | 32,613 | (1,702,272 | ) | 89,735 | (1,605,278 | )
+Income before income taxes | 162,289 | 1,842,036 | 469,857 | 2,187,299
+Income tax provision | (38,699 | ) | (403,200 | ) | (112,051 | ) | (487,227 | )
+Net income | 123,590 | 1,438,836 | 357,806 | 1,700,072
+Net loss attributable to noncontrolling interest | 1,343 | 1,157 | 3,903 | 2,798
+Net income attributable to Boyd Gaming | $ | 124,933 | $ | 1,439,993 | $ | 361,709 | $ | 1,702,870
+__________________________________________
+(a) Reconciliation of corporate expense:
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+(In thousands) | 2026 | 2025 | 2026 | 2025
+Corporate expense as reported on Condensed Consolidated Statements of Operations | $ | 29,386 | $ | 30,622 | $ | 99,413 | $ | 95,938
+Corporate share-based compensation expense | (6,462 | ) | (6,845 | ) | (22,746 | ) | (24,496 | )
+Corporate expense, net, as reported on the above table | $ | 22,924 | $ | 23,777 | $ | 76,667 | $ | 71,442
+(b) Rent expense incurred by those properties subject to a master lease with a real estate investment trust.
+(c) Includes the gain recognized on the sale of the Company's equity interest in FanDuel during the three and nine months ended September 30, 2025.
+4
+BOYD GAMING CORPORATION
+SUPPLEMENTAL INFORMATION
+Reconciliations of Net Income attributable to Boyd Gaming to Adjusted Earnings
+and Net Income Per Share to Adjusted Earnings Per Share
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+(In thousands, except per share data) | 2026 | 2025 | 2026 | 2025
+Net income attributable to Boyd Gaming | $ | 124,933 | $ | 1,439,993 | $ | 361,709 | $ | 1,702,870
+Pretax adjustments:
+Project development, preopening and writedowns | (5,356 | ) | 3,972 | 30,268 | 5,214
+Impairment of assets | — | 65,123 | — | 97,395
+Other operating items, net | 1,039 | 1,892 | 4,299 | 5,399
+Loss on early extinguishments and modifications of debt | — | 1,446 | 391 | 1,446
+Other, net (a) | 89 | (1,735,479 | ) | 93 | (1,735,420 | )
+Total adjustments | (4,228 | ) | (1,663,046 | ) | 35,051 | (1,625,966 | )
+Income tax effect for above adjustments | 953 | 362,197 | (7,578 | ) | 354,125
+Adjusted earnings | $ | 121,658 | $ | 139,144 | $ | 389,182 | $ | 431,029
+Net income per share, diluted | $ | 1.71 | $ | 17.81 | $ | 4.83 | $ | 20.58
+Pretax adjustments:
+Project development, preopening and writedowns | (0.07 | ) | 0.05 | 0.40 | 0.06
+Impairment of assets | — | 0.80 | — | 1.18
+Other operating items, net | 0.02 | 0.02 | 0.06 | 0.06
+Loss on early extinguishments and modifications of debt | — | 0.02 | 0.01 | 0.02
+Other, net (a) | — | (21.46 | ) | — | (20.97 | )
+Total adjustments | (0.05 | ) | (20.57 | ) | 0.47 | (19.65 | )
+Income tax effect for above adjustments | 0.01 | 4.48 | (0.10 | ) | 4.28
+Adjusted earnings per share, diluted | $ | 1.67 | $ | 1.72 | $ | 5.20 | $ | 5.21
+Weighted average diluted shares outstanding | 73,048 | 80,875 | 74,867 | 82,756
+__________________________________________
+(a) Includes the gain recognized on the sale of the Company's equity interest in FanDuel during the three and nine months ended September 30, 2025.
+5
+Non-GAAP Financial Measures
+Our financial presentations include the following non-GAAP financial measures:
+● | EBITDA: earnings before interest, taxes, depreciation and amortization,
+● | Adjusted EBITDA: EBITDA adjusted for deferred rent, share-based compensation expense, project development, preopening and writedowns expense, impairments of assets, other operating items, net, gain or loss on early extinguishments and modifications of debt, net income (loss) attributable to noncontrolling interest and other items, net, as applicable,
+● | EBITDAR: EBITDA further adjusted for rent expense associated with master leases with a real estate investment trust,
+● | Adjusted EBITDAR: Adjusted EBITDA further adjusted for rent expense associated with master leases with a real estate investment trust,
+● | Adjusted Earnings: net income before project development, preopening and writedowns expense, impairments of assets, other operating items, net, gain or loss on early extinguishments and modifications of debt, net income (loss) attributable to noncontrolling interest, and other non-recurring adjustments, net, as applicable, and,
+● | Adjusted Earnings Per Share (Adjusted EPS): Adjusted Earnings divided by weighted average diluted shares outstanding.
+Collectively, we refer to these and other non-GAAP financial measures as the “Non-GAAP Measures.”
+The Non-GAAP Measures are commonly used measures of performance in our industry that we believe, when considered with measures calculated in accordance with accounting principles generally accepted in the United States (GAAP), provide our investors with a more complete understanding of our operating results and facilitates comparisons between us and our competitors. We provide this information to investors to enable them to perform comparisons of our past, present and future operating results and as a means to evaluate the results of core on-going operations. We have historically reported these measures to our investors and believe that the continued inclusion of the Non-GAAP Measures provides consistency in our financial reporting. We also believe this information is useful to investors in allowing greater transparency related to significant measures used by our management in their financial and operational decision-making, their evaluation of total company and individual property performance, in the evaluation of incentive compensation and in the annual budget process. Management also uses Non-GAAP Measures in the evaluation of potential acquisitions and dispositions. We believe these measures continue to be used by investors in their assessment of our operating performance and the valuation of our company.
+The use of Non-GAAP Measures has certain limitations. Our presentation of the Non-GAAP Measures may be different from the presentation used by other companies and therefore comparability may be limited. While excluded from certain of the Non-GAAP Measures, depreciation and amortization expense, interest expense, income taxes and other items have been and will be incurred. Each of these items should also be considered in the overall evaluation of our results. Additionally, the Non-GAAP Measures do not consider capital expenditures and other investing activities and should not be considered as a measure of our liquidity. We compensate for these limitations by providing the relevant disclosure of our depreciation and amortization, interest and income taxes, capital expenditures and other items both in our reconciliations to the historical GAAP financial measures and in our consolidated financial statements, all of which should be considered when evaluating our performance. We do not provide a reconciliation of forward-looking Non-GAAP Measures to the corresponding forward-looking GAAP measure due to our inability to project special charges and certain expenses.
+The Non-GAAP Measures are to be used in addition to and in conjunction with results presented in accordance with GAAP. The Non-GAAP Measures should not be considered as an alternative to net income, operating income, or any other operating performance measure prescribed by GAAP, nor should these measures be relied upon to the exclusion of GAAP financial measures. The Non-GAAP Measures reflect additional ways of viewing our operations that we believe, when viewed with our GAAP results and the reconciliations to the corresponding historical GAAP financial measures, provide a more complete understanding of factors and trends affecting our business than could be obtained absent this disclosure. Management strongly encourages investors to review our financial information in its entirety and not to rely on a single financial measure.
+6
+Forward-looking Statements and Company Information
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Such statements contain words such as “may,” “will,” “might,” “expect,” “believe,” “anticipate,” “could,” “would,” “estimate,” “continue,” “pursue,” or the negative thereof or comparable terminology, and may include (without limitation) information regarding the Company's expectations, goals or intentions regarding future performance. These forward-looking statements are based on the current beliefs and expectations of management and involve risks and uncertainties that could cause actual results to differ materially from those expressed in the forward-looking statements. Many of these risks and uncertainties relate to factors that are beyond Boyd Gaming’s ability to control or estimate precisely. Additional factors that could cause actual results to differ are discussed under the heading “Risk Factors” and in other sections of the Company's Annual Report on Form 10-K, its Quarterly Reports on Form 10-Q, and in the Company's other current and periodic reports filed from time to time with the SEC. The reader is cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this release. All forward-looking statements in this press release are made as of the date hereof, based on information available to the Company as of the date hereof, and the Company assumes no obligation to update any forward-looking statement.
+About Boyd Gaming
+Founded in 1975, Boyd Gaming Corporation (NYSE: BYD) is a leading geographically diversified operator of 26 gaming entertainment properties in 11 states. The Company also manages a tribal casino in northern California, and owns and operates Boyd Interactive, a B2B and B2C online casino gaming business. Boyd Gaming’s nationwide portfolio is connected through Boyd Rewards, recognized as the nation’s favorite casino loyalty program by readers of both USA Today and Newsweek. Named by Forbes and Time magazines as one of “America’s Best Companies,” and led by one of the most experienced teams in the industry, Boyd Gaming is dedicated to delivering an outstanding entertainment experience and memorable guest service. For additional Company information and press releases, visit https://www.boydgaming.com.
+Financial Contact: | Media Contact:
+Josh Hirsberg | David Strow
+(702) 792-7234 | (702) 792-7386
+joshhirsberg@boydgaming.com | davidstrow@boydgaming.com
+7

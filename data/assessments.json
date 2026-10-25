@@ -1005,5 +1005,410 @@
     "filing_found": false,
     "recheck": false,
     "assessed_at": "2026-10-25T22:27:42+08:00"
+  },
+  {
+    "accession": "0001437749-26-033268",
+    "cik": "906553",
+    "company": "BOYD GAMING CORP",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure yet for the quarter to 30 Sep 2026. The quote (990,455 thousand) is in the release and holds 990.455 million."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure yet. The quote (194,902 thousand) is in the release and holds 194.902 million."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure yet. The quote (124,933 thousand, attributable to Boyd Gaming) is in the release and holds 124.933 million."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure yet. The quote ($1.71) is in the release and holds the extracted 1.71."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers (990,455; 194,902; 124,933; $1.71). The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are present. The release gives no guidance, so none is missing."
+      },
+      "S3": {
+        "score": 5,
+        "reason": "Figures and quotes can be used as they stand. Net income is the figure attributable to Boyd Gaming, as the quote says."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "990.455 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under Revenues or RevenueFromContractWithCustomerExcludingAssessedTax. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "operating_income": {
+        "extracted": "194.902 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under OperatingIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "net_income": {
+        "extracted": "124.933 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under NetIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "diluted_eps": {
+        "extracted": "1.71 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "does not match",
+        "reason": "Revenue fell 1.4% on a year ago and 4.2% on the quarter. Release table: Midwest & South +0.3% (540.5 vs 538.9m) and Managed up, but Online revenue fell 6.7% (154.5 vs 165.6m)."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Operating income fell 2.9% on the quarter (194.9 vs 200.7m); up 39.5% on a year ago only because that quarter had a 65.1m impairment. Las Vegas Locals EBITDAR fell 87.4 vs 92.1m."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Mixed numbers: revenue -1.4% on a year ago, operating margin up 5.8 pts, net income and EPS down on the quarter, so a balanced tone fits."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 990.455,
+        "this_quarter_from": "release",
+        "year_ago": 1004.361,
+        "change_year": -1.4,
+        "previous_quarter": 1034.386,
+        "change_quarter": -4.2
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 194.902,
+        "this_quarter_from": "release",
+        "year_ago": 139.764,
+        "change_year": 39.5,
+        "previous_quarter": 200.698,
+        "change_quarter": -2.9
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 124.933,
+        "this_quarter_from": "release",
+        "year_ago": 1439.993,
+        "change_year": -91.3,
+        "previous_quarter": 131.234,
+        "change_quarter": -4.8
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 1.71,
+        "this_quarter_from": "release",
+        "year_ago": 17.81,
+        "change_year": -90.4,
+        "previous_quarter": 1.75,
+        "change_quarter": -2.3
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 19.67802676547647,
+        "this_quarter_from": "release",
+        "year_ago": 13.91571357310768,
+        "change_year": 5.8,
+        "previous_quarter": 19.40262145852709,
+        "change_quarter": 0.3
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 12.613697744975793,
+        "this_quarter_from": "release",
+        "year_ago": 143.3740457863258,
+        "change_year": -130.8,
+        "previous_quarter": 12.68714000382836,
+        "change_quarter": -0.1
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says growth in the Midwest & South segment and online and managed operations continued.",
+        "quote": "our results reflected continued growth in our Midwest & South segment, increased play from southern Nevada residents, and strong gains in both our Online and Managed operations.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says results were hurt by softer Las Vegas destination business, mainly at the Orleans.",
+        "quote": "while quarterly results were impacted by increased softness in destination business to Las Vegas, primarily affecting our Orleans property",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO names growth in several segments and also softness in Las Vegas destination business."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-26T06:37:52+08:00"
+  },
+  {
+    "accession": "0001104659-26-118027",
+    "cik": "98677",
+    "company": "TOOTSIE ROLL INDUSTRIES INC",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure yet. The quote (net sales $227,163,000) is in the release and equals 227.163 million, so it holds the number."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty (null). The release gives no operating income, so this is not a fault."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure yet. The quote (net earnings $23,216,000) is in the release and equals 23.216 million."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure yet. The quote (net earnings per share $0.31) is in the release and holds the extracted 0.31."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "The quotes are in the release and hold their numbers, in whole dollars (227,163,000 = 227.163m). The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Operating income is empty, but the release does not give it. The other three figures are present; no guidance in the release."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, but operating income is empty, so the analyst must look elsewhere for profit before interest and tax."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "227.163 USD millions",
+        "quote_found": true,
+        "number_in_quote": false,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under Revenues or RevenueFromContractWithCustomerExcludingAssessedTax. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "23.216 USD millions",
+        "quote_found": true,
+        "number_in_quote": false,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under NetIncomeLoss. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      },
+      "diluted_eps": {
+        "extracted": "0.31 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "There is no filed figure yet for the quarter ending 2026-09-30 under EarningsPerShareDiluted. The 10-Q (or, for the quarter that ends the fiscal year, the 10-K) may not be filed yet; EPS for that last quarter is never filed on its own; or the company tags this figure another way."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "Revenue fell 2.4% on a year ago (release: -1%, 227.2 vs 230.6m), which fits an adverse effect, but a shift of sales into Q4 cannot be tested until Q4 is reported."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "Operating income is not filed as a quarter, and the release gives no gross margin. Net margin rose 1.6 pts on the previous quarter (10.2% vs 8.7%), but that cannot isolate cocoa costs."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "An outlook on freight costs. Operating margin is not filed as a quarter, so the trend cannot test it."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Net income fell 34.9% on a year ago, net margin fell 5.1 pts and revenue fell 2.4%, which fits a cautious tone."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 227.163,
+        "this_quarter_from": "release",
+        "year_ago": 232.705,
+        "change_year": -2.4,
+        "previous_quarter": 154.219,
+        "change_quarter": 47.3
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": 32.367,
+        "change_year": null,
+        "previous_quarter": -1.617,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 23.216,
+        "this_quarter_from": "release",
+        "year_ago": 35.659,
+        "change_year": -34.9,
+        "previous_quarter": 13.347,
+        "change_quarter": 73.9
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.31,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": 13.909026449796952,
+        "change_year": null,
+        "previous_quarter": -1.0485089385873336,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 10.219974203545473,
+        "this_quarter_from": "release",
+        "year_ago": 15.323693087815043,
+        "change_year": -5.1,
+        "previous_quarter": 8.654575635946284,
+        "change_quarter": 1.6
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The Chairman says the quarter was hurt by the timing of sales, including Halloween, between the third and fourth quarters.",
+        "quote": "Third quarter and nine months 2026 were adversely impacted by the timing of sales, including seasonal Halloween sales, between third and fourth quarter 2026",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The Chairman says cocoa and chocolate costs were more favourable than in the first half and she expects this to continue.",
+        "quote": "our cocoa and chocolate costs were more favorable in third quarter 2026 compared to first half 2026 and we expect this to continue in fourth quarter 2026.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The Chairman expects freight and delivery costs to stay elevated through the fourth quarter and likely into 2027.",
+        "quote": "we expect freight and delivery costs to remain elevated through fourth quarter 2026 and likely into 2027.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "cautious",
+      "reason": "The Chairman cites adverse sales timing, higher costs and expects freight costs to stay elevated into 2027."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-26T06:37:52+08:00"
   }
 ]

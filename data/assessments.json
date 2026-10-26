@@ -1410,5 +1410,410 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-10-26T06:37:52+08:00"
+  },
+  {
+    "accession": "0001437749-26-033268",
+    "cik": "906553",
+    "company": "BOYD GAMING CORP",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read today. The quote is in the release and holds 990,455 (USD thousands)."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read today. The quote is in the release and holds 194,902 (USD thousands)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read today. The quote is in the release and holds 124,933 (USD thousands)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read today. The quote is in the release and holds 1.71."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers. The 10-Q check is still to come, as the SEC could not be read today."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are present. The release gives no guidance, so none is missing."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Figures and quotes can be used as they stand, but the 10-Q check is still to come, so the analyst should recheck later."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "990.455 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": "194.902 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": "124.933 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "1.71 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "The claim is about segments, which the fundamentals do not test. Release total revenue was 990,455 against 1,004,361 a year ago (down 1.4%)."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q fundamentals today. Release tables: revenue down 1.4% on a year ago, but operating income 194,902 against 139,764 (up). Mixed, so the Orleans claim cannot be tested."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Release tables show revenue down 1.4% (990,455 from 1,004,361) and operating income up (194,902 from 139,764), which is mixed, as the balanced tone says."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 990.455,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 194.902,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 124.933,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 1.71,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 19.67802676547647,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 12.613697744975793,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says growth in the Midwest & South segment and online and managed operations continued.",
+        "quote": "our results reflected continued growth in our Midwest & South segment, increased play from southern Nevada residents, and strong gains in both our Online and Managed operations.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says results were hurt by softer Las Vegas destination business, mainly at the Orleans.",
+        "quote": "while quarterly results were impacted by increased softness in destination business to Las Vegas, primarily affecting our Orleans property",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO names growth in several segments and also softness in Las Vegas destination business."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-27T06:38:07+08:00"
+  },
+  {
+    "accession": "0001104659-26-118027",
+    "cik": "98677",
+    "company": "TOOTSIE ROLL INDUSTRIES INC",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read today. The quote holds 227,163,000 dollars, which is 227.163 million, so the number is right."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release gives no operating income, so this is not a fault."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read today. The quote holds 23,216,000 dollars, which is 23.216 million, so the number is right."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "No 10-Q figure could be read today. The quote is in the release and holds 0.31."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All three quotes are in the release and hold their numbers (dollars, not thousands). The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "Operating income is empty, but the release does not give it, so no point is taken off. Revenue, net income and EPS are present."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, but the 10-Q check is still to come and operating income is missing from the release."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "227.163 USD millions",
+        "quote_found": true,
+        "number_in_quote": false,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "23.216 USD millions",
+        "quote_found": true,
+        "number_in_quote": false,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": "0.31 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "cannot check",
+        "reason": "Sales timing between quarters cannot be tested by the fundamentals. Release: net sales 227,163,000 against 230,614,000 a year ago (down 1.5%)."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "Operating income and margin are not filed as a quarter, and the release gives neither. Cost trends cannot be tested. Outlook claim."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "An outlook claim on freight costs. Operating income and margin are not available, so consistency with the trend cannot be tested."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Release: net earnings fell to 23,216,000 from 35,659,000 (down 35%) and net sales fell 1.5%, which bears out a cautious tone."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 227.163,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 23.216,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.31,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 10.219974203545473,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The Chairman says the quarter was hurt by the timing of sales, including Halloween, between the third and fourth quarters.",
+        "quote": "Third quarter and nine months 2026 were adversely impacted by the timing of sales, including seasonal Halloween sales, between third and fourth quarter 2026",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The Chairman says cocoa and chocolate costs were more favourable than in the first half and she expects this to continue.",
+        "quote": "our cocoa and chocolate costs were more favorable in third quarter 2026 compared to first half 2026 and we expect this to continue in fourth quarter 2026.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The Chairman expects freight and delivery costs to stay elevated through the fourth quarter and likely into 2027.",
+        "quote": "we expect freight and delivery costs to remain elevated through fourth quarter 2026 and likely into 2027.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "cautious",
+      "reason": "The Chairman cites adverse sales timing, higher costs and expects freight costs to stay elevated into 2027."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-27T06:38:07+08:00"
   }
 ]

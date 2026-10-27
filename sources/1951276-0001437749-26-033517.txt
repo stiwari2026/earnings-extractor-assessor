@@ -1,0 +1,184 @@
+Company: SR Bancorp, Inc. (CIK 1951276)
+Accession: 0001437749-26-033517
+Results released: 2026-10-26
+Press release: https://www.sec.gov/Archives/edgar/data/1951276/000143774926033517/ex_1018125.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1951276/000143774926033517/0001437749-26-033517-index.htm
+Saved: 2026-10-27T20:07:10+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_1018125.htm EXHIBIT 99.1
+Exhibit 99.1
+FOR IMMEDIATE RELEASE
+Contact:
+Christopher J. Pribula
+President and Chief Executive Officer
+SR Bancorp, Inc.
+(732) 560-1700, ext. 5205
+SR BANCORP, INC. ANNOUNCES FINANCIAL RESULTS
+Bound Brook, New Jersey (October 26, 2026) – SR Bancorp, Inc. (the “Company”) (NASDAQ: SRBK), the holding company for Somerset Regal Bank (the “Bank”), announced net income increased 54.1% to $1.1 million for the three months ended September 30, 2026, or $0.15 per basic and diluted share, compared to net income of $693,000 for the three months ended September 30, 2025, or $0.09 per basic and diluted share. Excluding $47,000 of net accretion income related to fair value adjustments resulting from the acquisition of Regal Bancorp in September 2023, net income would have been $1.0 million for the three months ended September 30, 2026. Excluding $303,000 of net accretion income related to fair value adjustments, net income would have been $475,000 for the three months ended September 30, 2025. See “Non-GAAP Financial Information” contained herein for additional information.
+Total assets were $1.22 billion at September 30, 2026, an increase of $24.2 million, or 2.0%, from $1.19 billion at June 30, 2026. Net loans were $947.4 million, an increase of $46.2 million, or 5.1%, from $901.2 million at June 30, 2026. Cash and cash equivalents decreased $11.3 million, or 15.8%, to $60.2 million at September 30, 2026, from $71.5 million at June 30, 2026. The increases in loans were funded primarily through increased deposits, the use of cash and cash equivalents and the proceeds from the maturity of securities. Total deposits were $979.2 million, an increase of $52.8 million, or 5.7%, from $926.4 million at June 30, 2026.
+Comparison of Operating Results for the Three Months Ended September 30, 2026 and 2025
+General. Net income increased $375,000, or 54.1%, to $1.1 million for the three months ended September 30, 2026 compared to net income of $693,000 for the three months ended September 30, 2025. Net income for the three months ended September 30, 2026 and 2025 included $47,000 and $303,000, respectively, of net accretion income related to fair value adjustments resulting from the acquisition of Regal Bancorp in September 2023.
+1
+Interest Income. Interest income increased $1.8 million, or 14.8%, to $13.7 million for the three months ended September 30, 2026 from $11.9 million for the three months ended September 30, 2025, due to a $99.2 million increase in the average balance of interest-earning assets and a 21 basis point increase in the yield. These increases resulted from a $1.8 million, or 16.4%, increase in interest income on loans and a $31,000, or 5.3%, increase in interest income on securities, partly offset by a $51,000, or 11.2%, decrease in interest income on interest-bearing deposits at other banks. The increase in interest income on loans was primarily due to a $108.5 million increase in the average balance of loans from $809.6 million for the three months ended September 30, 2025 to $918.0 million for the three months ended September 30, 2026 and a 14 basis point increase in the average yield to 5.52% for the three months ended September 30, 2026 from 5.38% of the three months ended September 30, 2025. The increase in interest income on securities was due to a 24 basis point increase in the yield, partially offset by a $11.7 million decrease in the average balance. The decrease in interest income on interest-bearing deposits at other banks was due to a 65 basis point decrease in the yield.
+Interest Expense. Interest expense increased $1.1 million, or 24.3%, to $5.4 million for the three months ended September 30, 2026 from $4.3 million for the three months ended September 30, 2025, due to a $109.2 million increase in the average balance of interest-bearing liabilities. The increase in the average balance was primarily due to an increase of $75.5 million, or 22.6%, in the average balance of interest-bearing demand deposits, a $25.2 million, or 9.3%, increase in the average balance of certificates of deposit due to the acquisition of $50.0 million in brokered deposits and a $23.2 million, or 66.9%, increase in the average balance of borrowings for the three months ended September 30, 2026 compared to the three months ended September 30, 2025, partially offset by a decrease of $14.7 million in the average balance of savings and club accounts. The increase in interest expense was primarily due to a 33 basis point increase in the average rate of interest-bearing demand deposits to 2.20% for the three months ended September 30, 2026 from 1.87% for the three months ended September 30, 2025, resulting from competitively priced rates, partially offset by a 59 basis point decrease in the average rate on Federal Home Loan Bank borrowings from 4.39% for the three months ended September 30, 2025 to 3.80% for the three months ended September 30, 2026.
+Net Interest Income. Net interest income increased $707,000, or 9.3%, to $8.3 million for the three months ended September 30, 2026 from $7.6 million for the three months ended September 30, 2025. Net interest rate spread increased one basis point to 2.57% for the three months ended September 30, 2026 from 2.56% for the three months ended September 30, 2025. Net interest margin decreased two basis points to 3.03% for the three months ended September 30, 2026 from 3.05% for the three months ended September 30, 2025. Net interest-earning assets decreased $10.0 million, or 4.6%, to $209.1 million for the three months ended September 30, 2026 from $219.1 million for the three months ended September 30, 2025. The increase in the Company’s net interest rate spread were primarily a result of an increase in the yield on interest-earning assets slightly exceeding the increase in the cost of interest-bearing liabilities.
+Provision for Credit Losses. The Company records provisions for credit losses to maintain the allowance for credit losses at a level that management estimates is appropriate to reflect expected credit losses over the remaining contractual lives of loans, considering historical loss experience, current conditions and reasonable and supportable forecasts. In determining the level of the allowance for credit losses, the Company considers, among other factors, past and current loss experience, evaluations of real estate collateral, economic conditions, the type and volume of lending, adverse situations that may affect a borrower’s repayment capacity, trends in delinquent, classified or criticized loans, and other risk factors. The allowance is developed using reasonable and supportable forecasts and quantitative modeling techniques, combined with qualitative factors to address risks not captured in historical data, including emerging loan products or localized economic changes. Actual losses may vary from such estimates as more information becomes available or conditions change. The Company assesses the allowance for credit losses and records provisions for credit losses in the income statement on a quarterly basis.
+The Company recorded a provision for credit losses of $177,000 during the three months ended September 30, 2026 reflecting the loan growth during the period, compared to a provision for credit losses of $171,000 for the three months ended September 30, 2025. The Company had no charge-offs for the three months ended September 30, 2026 or 2025. The Company had no non-performing loans at September 30, 2026 or September 30, 2025. The Company’s allowance for credit losses as a percentage of total loans was 0.64% at September 30, 2026 compared to 0.67% at September 30, 2025.
+2
+Noninterest Income. Noninterest income increased $37,000, or 6.5%, to $602,000 for the three months ended September 30, 2026 from $565,000 for the three months ended September 30, 2025 primarily due to an increase in the gain on sale of loans of $42,000 and increase in services charges and fees of $9,000, offset by a decrease in the other income of $24,000.
+Noninterest Expense. Noninterest expense increased $203,000, or 2.9%, to $7.3 million for the three months ended September 30, 2026 from $7.1 million for the three months ended September 30, 2025 due to a $235,000, or 6.1%, increase in salaries and employee benefits expense driven by annual merit increases and increases in health care costs during the three months ended September 30, 2026 compared to the three months ended September 30, 2025, partially offset by a decrease of $43,000 in telephone, postage and supplies expense.
+Income Tax Expense. The provision for income taxes was $362,000 for the three months ended September 30, 2026 compared to $202,000 for the three months ended September 30, 2025. The Company’s effective tax rate was 25.3% for the three months ended September 30, 2026 compared to 22.6% for the three months ended September 30, 2025 primarily due to an increase in non-deductible expenses.
+Comparison of Financial Condition at September 30, 2026 and June 30, 2026
+Assets. Assets increased $24.2 million, or 2.0%, to $1.22 billion at September 30, 2026 from $1.19 billion at June 30, 2026. The increase was driven primarily by new loan originations, resulting in a net increase of $46.2 million in loans receivable, offset by decreases in cash and cash equivalents of $11.3 million and securities of $8.5 million.
+Cash and Cash Equivalents. Cash and cash equivalents decreased $11.3 million, or 15.8%, to $60.2 million at September 30, 2026 from $71.5 million at June 30, 2026 as excess funds were used to fund loan growth.
+Securities. Securities held-to-maturity decreased $8.5 million, or 6.5%, to $122.7 million at September 30, 2026 from $131.2 million at June 30, 2026. The decrease was primarily due to the call of a subordinated note, resulting in cash proceeds of $5.0 million, as well as principal repayments and maturities on mortgage-backed securities.
+3
+Loans. Loans receivable, net, increased $46.2 million, or 5.1%, to $947.4 million at September 30, 2026 from $901.2 million at June 30, 2026, driven by commercial loan growth of $32.3 million and residential mortgage loan growth of $13.9 million as a result of strong market demand.
+Deposits. Deposits increased $52.8 million, or 5.7%, to $979.2 million at September 30, 2026 from $926.4 million at June 30, 2026. Included in the Company's deposits at September 30, 2026 were $50.0 million in brokered certificates of deposit obtained during the first fiscal quarter to pay down borrowings and fund loan growth. At September 30, 2026, $98.6 million, or 10.1%, of total deposits consisted of noninterest-bearing deposits. At September 30, 2026, $193.9 million, or 19.8%, of total deposits were uninsured.
+Borrowings. At September 30, 2026 and June 30, 2026, the Company had $35.0 million and $65.0 million in outstanding borrowings, respectively, as the company utilized brokered deposits to pay down borrowings and fund loan growth.
+Equity. Equity increased $522,000, or 0.3%, to $182.3 million at September 30, 2026 from $181.8 million at June 30, 2026. The increase was primarily due to net earnings of $1.1 million, partially offset by a $362,000 increase in accumulated other comprehensive loss and the repurchase of 17,127 shares of common stock at a cost of $328,000. All repurchased shares of common stock were retired upon acquisition and are no longer outstanding.
+About Somerset Regal Bank
+Somerset Regal Bank is a full-service New Jersey commercial bank headquartered in Bound Brook, New Jersey that operates 14 branches in Essex, Hunterdon, Middlesex, Morris, Somerset and Union Counties, New Jersey. At September 30, 2026, Somerset Regal Bank had $1.22 billion in total assets, $947.4 million in net loans, $979.2 million in deposits and total equity of $182.3 million. Additional information about Somerset Regal Bank is available on its website, www.somersetregalbank.com.
+Forward-Looking Statements
+Certain statements contained herein are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) and are intended to be covered by the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These statements, which are based on certain current assumptions and describe our future plans, strategies and expectations, can generally be identified by the use of the words “may,” “will,” “should,” “could,” “would,” “plan,” “potential,” “estimate,” “project,” “believe,” “intend,” “anticipate,” “expect,” “target” and similar expressions. Forward-looking statements are based on current beliefs and expectations of management and are inherently subject to significant business, economic and competitive uncertainties and contingencies, many of which are beyond our control. Certain factors that could cause actual results to differ materially from expected results include increased competitive pressures, changes in the interest rate environment, inflation, general economic conditions or conditions within the securities markets, including potential recessionary conditions, the impact of a potential government shutdown, real estate market values in the Bank’s lending area changes in the quality of our loan and security portfolios, increases in non-performing and classified loans, economic assumptions or changes in our methodology that may impact our allowance for credit losses calculation, changes in liquidity, including the size and composition of our deposit portfolio and the percentage of uninsured deposits in the portfolio, the availability of low-cost funding, monetary and fiscal policies of the U.S. Government including policies of the U.S. Treasury and the Board of Governors of the Federal Reserve System, the imposition of tariffs or other domestic or international governmental policies and retaliatory responses, a failure in or breach of the Company’s operational or security systems or infrastructure, including cyber attacks, including the risks arising from our dependence on third-party service providers and vendors, the failure to maintain current technologies, failure to retain or attract employees and legislative, accounting and regulatory changes that could adversely affect the business in which the Company and the Bank are engaged. Our actual future results may be materially different from the results indicated by these forward-looking statements. Except as required by applicable law or regulation, we do not undertake, and we specifically disclaim any obligation, to release publicly the results of any revisions that may be made to any forward-looking statement.
+4
+SR Bancorp, Inc. and Subsidiaries
+Consolidated Statements of Financial Condition
+September 30, 2026 (Unaudited) and June 30, 2026
+(Dollars in thousands)
+September 30, 2026 | June 30, 2026
+Assets
+Cash and due from banks | $ | 4,488 | $ | 3,838
+Interest-bearing deposits at other banks | 55,700 | 67,623
+Total cash and cash equivalents | 60,188 | 71,461
+Securities held-to-maturity, at amortized cost | 122,656 | 131,154
+Equity securities, at fair value | 24 | 27
+Loans receivable, net of allowance for credit losses of $6,116 and $5,938, respectively | 947,379 | 901,191
+Premises and equipment, net | 4,605 | 4,815
+Right-of-use asset | 2,539 | 2,747
+Restricted equity securities, at cost | 2,885 | 4,235
+Accrued interest receivable | 3,794 | 3,477
+Bank owned life insurance | 38,658 | 38,389
+Goodwill and intangible assets | 25,284 | 25,540
+Other assets | 8,355 | 9,139
+Total assets | $ | 1,216,367 | $ | 1,192,175
+Liabilities and Equity
+Liabilities
+Deposits:
+Noninterest-bearing | $ | 98,643 | $ | 128,155
+Interest-bearing | 880,603 | 798,266
+Total deposits | 979,246 | 926,421
+Borrowings | 35,000 | 65,000
+Advance payments by borrowers for taxes and insurance | 9,109 | 9,639
+Accrued interest payable | 225 | 216
+Lease liability | 2,571 | 2,785
+Other liabilities | 7,899 | 6,319
+Total liabilities | 1,034,050 | 1,010,380
+Equity
+Preferred stock, $0.01 par value, 5,000,000 shares authorized, none issued | — | —
+Common stock, $0.01 par value, 50,000,000 authorized; 7,917,229 and 7,934,356 shares issued and outstanding as of September 30, 2026, and June 30, 2026, respectively | 79 | 79
+Additional paid-in capital | 66,622 | 66,465
+Retained earnings | 122,889 | 122,257
+Unearned compensation ESOP | (6,180 | ) | (6,275 | )
+Accumulated other comprehensive loss | (1,093 | ) | (731 | )
+Total stockholders' equity | 182,317 | 181,795
+Total liabilities and stockholders' equity | $ | 1,216,367 | $ | 1,192,175
+5
+SR Bancorp, Inc. and Subsidiaries
+Consolidated Statements of Income
+For the Three Months Ended and September 30, 2026 and 2025
+(In thousands, except per share data, unaudited)
+Three Months Ended
+September 30,
+2026 | 2025
+Interest Income
+Loans, including fees | $ | 12,678 | $ | 10,895
+Securities:
+Taxable | 615 | 584
+Interest bearing deposits at other banks | 405 | 456
+Total interest income | 13,698 | 11,935
+Interest Expense
+Deposits:
+Demand | 2,260 | 1,565
+Savings and time | 2,587 | 2,395
+Borrowings | 549 | 380
+Total interest expense | 5,396 | 4,340
+Net Interest Income | 8,302 | 7,595
+Provision for Credit Losses | 177 | 171
+Net Interest Income After Provision for Credit Losses | 8,125 | 7,424
+Noninterest Income
+Service charges and fees | 239 | 230
+Increase in cash surrender value of bank owned life insurance | 269 | 265
+Fees and service charges on loans | 39 | 32
+Unrealized (loss) gain on equity securities | (3 | ) | (2 | )
+Gain on sale of loans | 42 | —
+Other | 16 | 40
+Total noninterest income | 602 | 565
+Noninterest Expense
+Salaries and employee benefits | 4,088 | 3,853
+Occupancy | 548 | 536
+Furniture and equipment | 339 | 353
+Data processing | 546 | 540
+Advertising | 139 | 130
+FDIC premiums | 123 | 120
+Directors fees | 104 | 97
+Professional fees | 453 | 437
+Insurance | 128 | 134
+Telephone, postage and supplies | 159 | 202
+Other | 670 | 692
+Total noninterest expense | 7,297 | 7,094
+Income Before Income Tax Expense | 1,430 | 895
+Income Tax Expense | 362 | 202
+Net Income | $ | 1,068 | $ | 693
+Basic earnings per share | $ | 0.15 | $ | 0.09
+Diluted earnings per share | $ | 0.15 | $ | 0.09
+Weighted average number of common shares outstanding - basic | 7,042,332 | 7,845,230
+Weighted average number of common shares outstanding - diluted | 7,325,728 | 7,927,521
+6
+SR Bancorp, Inc. and Subsidiaries
+Selected Ratios
+(Dollars in thousands, except per share data)
+Three Months Ended
+September 30, 2026 | September 30, 2025
+(Unaudited)
+Performance Ratios: (1)
+Return on average assets (2) | 0.36% | 0.25%
+Return on average equity (3) | 2.34% | 1.45%
+Net interest margin (4) | 3.03% | 3.05%
+Net interest rate spread (5) | 2.57% | 2.56%
+Efficiency ratio (6) | 81.95% | 86.94%
+Total gross loans to total deposits | 97.09% | 95.39%
+Asset Quality Ratios:
+Allowance for credit losses on loans as a percentage of total gross loans | 0.64% | 0.67%
+Allowance for credit losses on loans as a percentage of non-performing loans (7) | N/A | N/A
+Net (charge-offs) recoveries to average outstanding loans during the period (8) | N/A | N/A
+Non-performing loans as a percentage of total gross loans (7) | N/A | N/A
+Non-performing assets as a percentage of total assets (9) | N/A | N/A
+Other Data:
+Tangible book value per share (10) | $19.83 | $19.08
+Tangible common equity to tangible assets | 13.18% | 15.28%
+(1) | Performance ratios are annualized.
+(2) | Represents net income divided by average total assets.
+(3) | Represents net income divided by average equity.
+(4) | Represents net interest income as a percentage of average interest-earning assets.
+(5) | Represents the spread between total interest-earning assets and total interest-bearing liabilities.
+(6) | Represents non-interest expense divided by the sum of net interest income and non-interest income.
+(7) | This ratio is not applicable for the three months ended September 30, 2026 and 2025 as the Company had no non-performing loans as of those periods.
+(8) | This ratio is not applicable for the three months ended September 30, 2026 and 2025 as the Company had no charge-offs or recoveries as of those periods.
+(9) | This ratio is not applicable for the three months ended September 30, 2026 and 2025 as the Company had no non-performing assets as of those periods.
+(10) | Tangible book value per share is calculated based on total stockholders' equity, excluding intangible assets (goodwill and core deposit intangibles), divided by total shares outstanding as of the balance sheet date. Goodwill and core deposit intangibles were $25,284 and $26,393 at September 30, 2026 and September 30, 2025, respectively.
+7
+NON-GAAP FINANCIAL INFORMATION
+This release contains financial information determined by methods other than in accordance with generally accepted accounting principles (“GAAP”). Management uses these non-GAAP measures because we believe that they may provide useful supplemental information for evaluating our operations and performance, as well as in managing and evaluating our business and in discussions about our operations and performance. Management believes these non-GAAP measures may also provide users of our financial information with a meaningful measure for assessing our financial results, as well as a comparison to financial results for prior periods. These non-GAAP measures should be viewed in addition to, and not as an alternative to or substitute for, measures determined in accordance with GAAP and are not necessarily comparable to other similarly titled measures used by other companies. To the extent applicable, reconciliations of these non-GAAP measures to the most directly comparable measures as reported in accordance with GAAP are included below.
+Three Months Ended
+September 30, | September 30,
+2026 | 2025
+Net Income | $ | 1,068 | $ | 693
+Adjustments for non-recurring items:
+Net accretion, pre-tax | $ | (47 | ) | $ | (303 | )
+Subtotal | $ | (47 | ) | $ | (303 | )
+Tax expense | $ | 13 | $ | 85
+Net of items above, after-tax | $ | (34 | ) | $ | (218 | )
+Net Income, adjusted | $ | 1,034 | $ | 475
+8

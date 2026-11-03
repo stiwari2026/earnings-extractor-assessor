@@ -386,5 +386,241 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1624322/000162432226000040/exhibit991_earningsrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1624322/000162432226000040/0001624322-26-000040-index.htm",
     "saved_at": "2026-10-27T20:07:10+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,228 | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 25% year over year.",
+        "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Google Cloud revenues more than doubled, driven by AI demand.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Operating income grew 30% and operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and points to momentum across the business and big opportunities ahead."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:08:14+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of 2026, Amazon expects net sales of $240.0 billion to $247.0 billion, growth of 12% to 16%.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales rose 12% year over year.",
+        "quote": "Net sales increased 12% to $201.9 billion in the third quarter, compared with $180.2 billion in third quarter 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating income rose and margin was Amazon's highest ever.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income fell, which the company ties to prior-year investment gains.",
+        "quote": "Net income decreased to $20.7 billion in the third quarter, or $1.89 per diluted share, compared with $21.2 billion, or $1.95 per diluted share, in third quarter 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and projects AWS growth above 40% in 2027 and 2028."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:08:14+08:00"
+  },
+  {
+    "cik": "47111",
+    "company": "HERSHEY CO",
+    "accession": "0001628280-26-068046",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-27",
+    "period_label": "quarter ended 27 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3275.51,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 3,275,510 | $ | 3,181,418"
+      },
+      "operating_income": {
+        "value": 817.653,
+        "unit": "USD millions",
+        "quote": "Operating profit | 817,653 | 434,583"
+      },
+      "net_income": {
+        "value": 580.814,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 580,814 | $ | 276,320"
+      },
+      "diluted_eps": {
+        "value": 2.88,
+        "unit": "USD per share",
+        "quote": "- Diluted | - Common | $ | 2.88 | $ | 1.36"
+      }
+    },
+    "guidance": {
+      "text": "For full-year 2026 Hershey expects net sales growth of about 5%.",
+      "quote": "Net sales growth* | 4.5% to 5% | ~5%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Net sales rose 3.0%, with organic constant currency sales up 0.8%.",
+        "quote": "Consolidated net sales of $3,275.5 million, an increase of 3.0%."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Reported net income rose 111.8%.",
+        "quote": "Reported net income of $580.8 million, or $2.88 per share-diluted, an increase of 111.8%."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO expects solid sales growth and a recovery in margin and earnings, though consumers are more cautious.",
+        "quote": "We remain on track to deliver solid sales growth, a meaningful recovery in margin and earnings, and disciplined investment to fuel our next chapter of growth."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO reports steady progress and expects recovery, but notes that consumers are growing more cautious."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/47111-0001628280-26-068046.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026068046/exhibit991_2026xq3.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000162828026068046/0001628280-26-068046-index.htm",
+    "saved_at": "2026-11-04T06:08:14+08:00"
+  },
+  {
+    "cik": "354190",
+    "company": "Arthur J. Gallagher & Co.",
+    "accession": "0001628280-26-068263",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3976,
+        "unit": "USD millions",
+        "quote": "Total revenues | 3,976 | 3,365"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 403,
+        "unit": "USD millions",
+        "quote": "Net earnings attributable to controlling interests | $ | 403 | $ | 272"
+      },
+      "diluted_eps": {
+        "value": 1.55,
+        "unit": "USD per share",
+        "quote": "Diluted net earnings per share | $ | 1.55 | $ | 1.04"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Combined Brokerage and Risk Management revenue grew 18%, with organic growth of 5%.",
+        "quote": "Our combined Brokerage and Risk Management segments delivered revenue growth of 18%, including organic growth of 5%."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Net earnings grew 25%.",
+        "quote": "Net earnings grew 25%, and adjusted EBITDAC also grew 25%"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it an excellent quarter and is very confident in long-term value creation."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/354190-0001628280-26-068263.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/354190/000162828026068263/a3rdquarter2026earningsrel.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/354190/000162828026068263/0001628280-26-068263-index.htm",
+    "saved_at": "2026-11-04T06:08:14+08:00"
   }
 ]

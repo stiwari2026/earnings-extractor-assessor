@@ -3380,5 +3380,137 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-11T06:37:55+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-11-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 6,
+      "total": 6,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 6,
+      "checked": 6,
+      "rechecks": 4,
+      "confirmed": 13,
+      "mismatch": 1,
+      "cannot_check": 10
+    },
+    "companies": [
+      {
+        "cik": "98677",
+        "company": "TOOTSIE ROLL INDUSTRIES INC",
+        "accession": "0001104659-26-118027",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 1,
+        "mismatch": 1,
+        "cannot_check": 2,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 4,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1951276",
+        "company": "SR Bancorp, Inc.",
+        "accession": "0001437749-26-033517",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1624322",
+        "company": "Business First Bancshares, Inc.",
+        "accession": "0001624322-26-000040",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "354190",
+        "company": "Arthur J. Gallagher & Co.",
+        "accession": "0001628280-26-068263",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1689796",
+        "company": "JBG SMITH Properties",
+        "accession": "0001104659-26-123565",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "921582",
+        "company": "IMAX CORP",
+        "accession": "0001628280-26-070630",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 6 extractions: 13 figures confirmed, 1 mismatch, 10 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-11T06:15:03+08:00",
+      "watch_brief": "briefs/2026-11-11-watch.md",
+      "brief_says": 1371,
+      "saved_for_run": 1371,
+      "match": true
+    },
+    "offline": false
   }
 ]

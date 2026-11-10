@@ -622,5 +622,133 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/354190/000162828026068263/a3rdquarter2026earningsrel.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/354190/000162828026068263/0001628280-26-068263-index.htm",
     "saved_at": "2026-11-04T06:08:14+08:00"
+  },
+  {
+    "cik": "1689796",
+    "company": "JBG SMITH Properties",
+    "accession": "0001104659-26-123565",
+    "release_date": "2026-11-06",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 132.413,
+        "unit": "USD millions",
+        "quote": "Total revenue | 132,413 | 123,870 | 389,390 | 371,035"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -82.006,
+        "unit": "USD millions",
+        "quote": "NET LOSS ATTRIBUTABLE TO COMMON SHAREHOLDERS | $ | (82,006)"
+      },
+      "diluted_eps": {
+        "value": -1.41,
+        "unit": "USD per share",
+        "quote": "LOSS PER COMMON SHARE - BASIC AND DILUTED | $ | (1.41)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "costs",
+        "claim": "Management says higher long-term interest rates have raised borrowing costs and put renewed pressure on real estate valuations.",
+        "quote": "Higher long-term interest rates have increased borrowing costs, widened bid-ask spreads, and placed renewed pressure on real estate valuations."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Management says annualised NOI rose 2.9% quarter over quarter to $256.4 million and Same Store NOI rose 3.3%.",
+        "quote": "Annualized NOI increased 2.9% or $7.2 million quarter over quarter to $256.4 million."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects operating performance to keep improving in the short run, but expects a longer wait for the office capital markets to recover.",
+        "quote": "We expect operating performance to continue to improve in the short run, but a recovery in the private capital markets for office will likely require a longer time horizon."
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "Management believes the company is on track for its strongest year of new leasing since 2019.",
+        "quote": "Entering the fourth quarter, we believe we are on track for our strongest year of new leasing since 2019."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The letter describes improving multifamily and office fundamentals, but also names higher rates, pressure on valuations and a slow office capital market."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1689796-0001104659-26-123565.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1689796/000110465926123565/jbgs-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1689796/000110465926123565/0001104659-26-123565-index.htm",
+    "saved_at": "2026-11-11T06:15:03+08:00"
+  },
+  {
+    "cik": "921582",
+    "company": "IMAX CORP",
+    "accession": "0001628280-26-070630",
+    "release_date": "2026-11-05",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 174.552,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 174,552 | $ | 106,654"
+      },
+      "operating_income": {
+        "value": 74.876,
+        "unit": "USD millions",
+        "quote": "Income from operations | 74,876 | 29,045 | 105,601 | 60,125"
+      },
+      "net_income": {
+        "value": 113.805,
+        "unit": "USD millions",
+        "quote": "Net income attributable to common shareholders | $ | 113,805"
+      },
+      "diluted_eps": {
+        "value": 1.96,
+        "unit": "USD per share",
+        "quote": "Net Income Per Share - Diluted(1) | $ | 1.96"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The company reports quarterly revenue of $175 million, up 64% year over year.",
+        "quote": "Revenue of $175 million, up 64% year-over-year and Gross Margin of $126 million, up 88% year-over-year"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says the quarter's record margins show the strength of the company's model.",
+        "quote": "The record margins we generated in the quarter demonstrate the unique strength of our model"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says the team has delivered more than 100 signings for IMAX systems so far this year, 65% of them new locations.",
+        "quote": "with our team delivering more than 100 signings for IMAX systems worldwide year-to-date — including 65% new locations and strong growth across priority Rest of World markets."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says the company is excited about the year ahead, with a very strong 2027 film slate.",
+        "quote": "With the global release of Dune: Part Three and our release of Avengers: Doomsday in China carrying into a very strong 2027 slate, we are excited for the year ahead"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter record-breaking, speaks of record margins and says there has never been a better time to be in the IMAX business."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/921582-0001628280-26-070630.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/921582/000162828026070630/imax-q32026epr.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/921582/000162828026070630/0001628280-26-070630-index.htm",
+    "saved_at": "2026-11-11T06:15:03+08:00"
   }
 ]

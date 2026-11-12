@@ -1,0 +1,461 @@
+Company: Orion180 Insurance Group Inc. (CIK 2124472)
+Accession: 0001628280-26-072706
+Results released: 2026-11-10
+Press release: https://www.sec.gov/Archives/edgar/data/2124472/000162828026072706/ex-991x2026q3earningsrelea.htm
+Filing: https://www.sec.gov/Archives/edgar/data/2124472/000162828026072706/0001628280-26-072706-index.htm
+Saved: 2026-11-13T06:08:50+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex-991x2026q3earningsrelea.htm EX-99.1
+Exhibit 99.1
+Orion180 Insurance Group Inc. Announces Third Quarter 2026 Results
+- Managed Premiums In-Force Grows 72% from Prior-Year Quarter End to $678 million -
+- Managed Premiums Written Grows 60% Year-over-Year to $204 million -
+- Net Income Increases 32% Year-over-Year to $11 million -
+- Completed Initial Public Offering in September 2026 -
+MELBOURNE, Fla. — November 10, 2026 — Orion180 Insurance Group Inc. (NASDAQ: OIG) (“Orion180” or the “Company”), a leading provider of flexible, customer-centric homeowners and flood insurance solutions, today announced financial results for the third quarter ended September 30, 2026.
+Third Quarter 2026 Highlights
+•Managed premiums in-force was $678 million as of September 30, 2026 vs. $394 million as of September 30, 2025.
+•Managed premiums written grew 60% to $204 million during the third quarter of 2026 vs. $127 million in the prior-year period.
+•New business premiums written increased 62% to $102 million during the third quarter of 2026 vs. $63 million in the prior-year period.
+•Policy retention rate was 88% during the third quarter of 2026 vs. 90% in the prior-year period.
+•Net income grew 32% to $11 million during the third quarter of 2026 vs. $9 million in the same quarter during the prior year.
+•Consolidated adjusted EBITDA increased 65% to $25 million during the third quarter of 2026, compared to $15 million in the prior-year period.
+“We delivered an excellent quarter across our key metrics, rapidly growing our managed premiums while significantly increasing our profitability on a year-over-year basis,” said Kenneth Gregg, Chief Executive Officer of Orion180. “In addition, we achieved a major milestone in our Company’s history by successfully completing our initial public offering. We believe our results reflect the strength, differentiation and scalability of the business model we have built over the past eight years.”
+“We are well-positioned to produce durable growth on both our top and bottom lines, which is driven by our attractive suite of homeowners solutions - including our flagship FLEX product - as well as our proprietary end-to-end MY180 tech platform, which allows us to seamlessly combine best-in-class underwriting, claims management, and real-time analytic capabilities,” added Mr. Gregg. “As a result, we are able to compound our competitive advantage and continue our growth with underwriting discipline across our growing 14-state footprint. We also continue to develop our MY180 tech platform capabilities to further drive future growth. Moving forward, we are well-positioned to sustainably continue gaining market share while increasing long-term value for shareholders, leading the way as a premier provider of specialty property insurance solutions.”
+1
+Third Quarter 2026 Key Results
+Three Months Ended September 30,
+($ in thousands) | 2026 | 2025 | Change
+GAAP Financial Measures
+Gross premiums written | $ | 203,815 | $ | 127,181 | $ | 76,634 | 60.3 | %
+Net income | $ | 11,466 | $ | 8,665 | $ | 2,801 | 32.3 | %
+Non-GAAP Financial Measures
+Consolidated adjusted EBITDA (1) | $ | 25,129 | $ | 15,267 | $ | 9,862 | 64.6 | %
+Segment Performance Measures
+Services Segment
+Commission and fees (2) | $ | 75,065 | $ | 45,673 | $ | 29,392 | 64.4 | %
+Services adjusted EBITDA (3) | $ | 18,585 | $ | 15,977 | $ | 2,608 | 16.3 | %
+Underwriting Segment
+Net premiums earned | $ | 29,935 | $ | 19,648 | $ | 10,287 | 52.4 | %
+Gross loss ratio | 32.8 | % | 27.3 | % | — | 5.5 | pp
+(1)Information regarding the non-GAAP financial measures included in this press release, including definitions of these measures, reconciliations to the most comparable GAAP measures and limitations related thereto, is described below under “Use of Non-GAAP Financial Measures” and in the tables attached to this press release.
+(2)Commission and fees revenue is a non-GAAP financial measure and services segment metric. It represents total services segment revenue, less other services segment income. Please see the section titled “—Segment results—Services segment” within this earnings release for a description of the segment and the key performance measures that management uses.
+(3)Services Adjusted EBITDA for the Services segment is a key performance measure that management uses to measure segment profitability. Please see the section titled “—Segment results—Services segment” within this earnings release for a description of the segment and a reconciliation to consolidated net income.
+The following table presents a summary of the Company’s premium and policy retention rates:
+Three Months Ended September 30,
+($ in thousands) | 2026 | 2025 | $ Change | % Change
+Managed premiums in-force (period-end) | $ | 678,220 | $ | 393,519 | $ | 284,701 | 72.3%
+Managed premiums written | $ | 203,858 | $ | 127,204 | $ | 76,654 | 60.3%
+New business premiums written | $ | 102,397 | $ | 63,399 | $ | 38,998 | 61.5%
+Policy retention rate | 87.6% | 89.6 | % | — | -2.0 pp
+Liquidity and Capital Resources
+Orion180 closed its initial public offering of 20,000,000 shares of Class A common stock on September 21, 2026. As of September 30, 2026, the Company has 99,058,193 shares of common stock outstanding.
+As of September 30, 2026, the Company had cash and cash equivalents of $166 million and outstanding debt of $56 million on its balance sheet.
+2
+Webcast and Conference Call
+Orion180 will hold a conference call to discuss its financial results today at 5:00 pm Eastern Time. A live webcast of the conference call will be available at ir.orion180.com. The dial-in for the conference call is (877) 269-7751 (toll-free) or (201) 389-0908 (international). Please dial the number 10 minutes prior to the scheduled start time.
+A webcast replay of the call will be available at ir.orion180.com for one year following the call.
+About Orion180
+Orion180 Insurance Group Inc. (Orion180) (NASDAQ: OIG) is a founder-led technology-focused, high growth, high-margin specialty insurance group delivering innovative insurance solutions with a growing footprint across the United States. Since beginning operations in 2018, they have organically grown to become the second largest excess and surplus (“E&S”) lines homeowners insurance provider in the United States by direct written premiums with a presence in 14 states. Their diverse product offerings across E&S and admitted homeowners’ insurance, private flood insurance, and a range of ancillary products are distributed through a network of approximately 17,000 active independent agents as of September 30, 2026.
+Orion180’s business is built on four core principles: (i) a relentless focus on innovation, (ii) real-time, data-driven decision making through their proprietary, end-to-end MY180 platform, (iii) ease of doing business, and (iv) long-term partnerships with their distribution providers and reinsurance partners. Headquartered in Melbourne, Florida, Orion180 also has offices in Irving, Texas and Draper, Utah. Learn more at www.orion180.com.
+Orion180® is a registered trademark of Orion180 Insurance Group Inc.
+Investor Relations Media Relations
+ir@orion180.com media@orion180.com
+Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. All statements contained in this press release that do not relate to matters of historical fact should be considered forward-looking statements, including without limitation statements regarding the scalability of our business model, our anticipated growth, including our ability to produce durable growth, our ability to continue gaining market share while creating long-term value for shareholders, our becoming a premier provider of specialty property insurance solutions over time, our future financial performance, business prospects and strategy, our future results of operations and financial condition and liquidity position, how macroeconomic conditions affect our business, including future industry and market dynamics and regulatory and market constraints, our access to capacity and reinsurance, and the development and performance of our proprietary technology platform. Without limiting the generality of the foregoing, you can identify forward-looking statements because they contain words such as “may,” “will,” “shall,” “should,” “expects,” “plans,” “anticipates,” “could,” “intends,” “target,” “projects,” “contemplates,” “believes,” “estimates,” “predicts,” “potential,” “goal,” “objective,” “seeks,” or “continue” or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans, or intentions. These statements are neither promises nor guarantees, but involve known and unknown risks, uncertainties and other important factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements, including, but not limited to, the following: our dependence on third-party independent
+3
+agents to distribute our products; intense competition in the property insurance markets; our ability to accurately price risks and maintain adequate loss reserves; the availability and cost of reinsurance; severe weather conditions, catastrophes, and the effects of climate change; our reliance on our proprietary technology platform and rapid changes in technology, including AI; our dependence on the services of our founder and senior management team; regulatory developments; cybersecurity and data privacy risks; our level of indebtedness; general economic conditions, including changes in the housing market; and the dual class structure of our common stock. These and other important factors discussed under the caption "Risk Factors" in our final prospectus filed pursuant to Rule 424(b) on September 21, 2026 related to our initial public offering, as such factors may be updated from time to time in our filings with the SEC, including without limitation, our Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2026 and our other filings with the SEC, could cause actual results to differ materially from those indicated by the forward-looking statements made in this press release. Any such forward-looking statements represent management's estimates as of the date of this press release. While we may elect to update such forward-looking statements at some point in the future, we disclaim any obligation to do so, even if subsequent events cause our views to change.
+Non-GAAP Financial Measures
+In addition to the metrics and indicators set forth above, this press release contains certain financial measures that are not presented in accordance with generally accepted accounting principles in the United States ("GAAP"), including Consolidated Adjusted EBITDA, Consolidated Adjusted EBITDA Margin, and Commission and Fees Revenue (collectively, "non-GAAP financial measures"). We utilize these measures to analyze our business and provide useful information about our financial performance. The non-GAAP financial measures are not recognized terms under GAAP and should not be considered as alternatives to the corresponding GAAP measures of financial performance, or any other performance measure derived in accordance with GAAP. Because not all companies use identical calculations, the presentation of the non-GAAP financial measures may not be comparable to other similarly titled measures of other companies and can differ significantly from company to company. Our management uses these non-GAAP financial measures, in conjunction with GAAP financial measures, as an integral part of managing our business and to, among other things: (i) monitor and evaluate the performance of our business operations and financial performance; (ii) facilitate internal comparisons of the historical operating performance of our business operations; (iii) facilitate external comparisons of the results of our overall business to the historical operating performance of other companies that may have different capital structures and debt levels and different go-to-market models; (iv) review and assess the operating performance of our management team; (v) analyze and evaluate financial and strategic planning decisions regarding future operating investments; and (vi) plan for and prepare future annual operating budgets and determine appropriate levels of operating investments.
+We monitor the following key business metrics and non-GAAP financial measures that assist us in evaluating our business, measuring our performance, identifying trends and making strategic decisions.
+Consolidated Adjusted EBITDA and Consolidated Adjusted EBITDA Margin
+Consolidated adjusted EBITDA removes non-cash and non-recurring charges that occur in the affected period and provides a basis for measuring our core financial performance against other periods. We define consolidated adjusted EBITDA as earnings before interest, taxes, depreciation, amortization (i.e., software and loan), and non-recurring charges.
+Consolidated adjusted EBITDA is a non-GAAP financial measure used as an analytical indicator to assess business performance. Consolidated adjusted EBITDA should not be construed as a measure of financial performance, liquidity, or cash flows provided by or (used) in operating, investing, and financing activities, as there may be significant factors or trends that it fails to address. Consolidated adjusted EBITDA should not be considered in isolation or as an alternative to net income (loss), or other financial statement data presented in our consolidated financial statements as an indicator of financial performance. Consolidated adjusted EBITDA is not a measurement determined in accordance with GAAP and is therefore susceptible to varying methods of calculation and this measure, as presented, may not
+4
+be comparable to other similarly titled measures of other companies. We caution investors that non-GAAP financial information departs from traditional accounting conventions. Therefore, its use can make it difficult to compare our results with the results of other companies.
+Consolidated adjusted EBITDA margin is a non-GAAP financial measure that management uses to evaluate operating profitability relative to revenue and to facilitate period-over-period comparisons of our core performance.
+We define Consolidated adjusted EBITDA margin as consolidated adjusted EBITDA divided by total revenues.
+5
+Orion180 Insurance Group, Inc. and Subsidiaries
+Condensed Consolidated Balance Sheets
+(in thousands, except share and par value data)
+September 30, 2026 | December 31, 2025
+(unaudited) | (audited)
+Assets
+Fixed maturities, available-for-sale, at fair value (amortized cost of $59,821 and $33,817) | $ | 59,184 | $ | 33,876
+Fixed maturities, held-to-maturity, at amortized cost, net of credit loss allowance (fair value of $26,064 and $32,823) | 26,239 | 32,694
+Short-term investments | 20,147 | 39,362
+Total invested assets | 105,570 | 105,932
+Cash and cash equivalents | 165,673 | 47,853
+Restricted cash | 7,715 | 8,299
+Accrued investment income | 775 | 806
+Commission and service fee income receivable | 5,753 | 4,338
+Premiums and other receivables, net | 41,817 | 25,902
+Reinsurance recoverable on paid and unpaid losses, net | 95,840 | 42,159
+Prepaid reinsurance premiums | 468,688 | 258,027
+Capitalized software, net | 18,312 | 13,773
+Other assets | 26,729 | 10,743
+Total assets | 936,872 | 517,832
+Liabilities, mezzanine equity and shareholders' equity
+Liabilities:
+Unpaid losses and loss adjustment expenses | 57,516 | 23,352
+Unearned premiums | 385,250 | 240,206
+Other policyholders' funds | 3,098 | 834
+Reinsurance payable | 283,300 | 112,633
+Deferred policy acquisition costs, net of ceding commissions | 27,336 | 9,170
+Accounts payable and other liabilities | 69,549 | 39,504
+Income taxes payable | 2,520 | 3,787
+Debt, net of unamortized issuance costs | 55,962 | 60,955
+Total liabilities | 884,531 | 490,441
+Commitments and contingencies
+Mezzanine equity:
+Preferred stock ($0.001 and $0.00 par value, 50,000,000 and 1,000,000 shares authorized, 0 and 600,000 shares issued and outstanding) | — | 15,283
+Total mezzanine equity | — | 15,283
+Shareholders’ equity:
+Class A common stock, $0.001 par value; 400,000,000 shares authorized; 39,122,933 and 0 shares issued and outstanding. Class B common stock, $0.001 par value; 100,000,000 shares authorized, 59,935,260 and 0 shares issued and outstanding. Common stock, $0.00 par value; 0 and 120,000,000 shares authorized, 0 and 78,792,040 shares issued and outstanding. | 99 | —
+Additional paid-in capital | 224,702 | 2,770
+Accumulated other comprehensive income (loss), net of taxes | (510) | 54
+Retained earnings (Accumulated deficit) | (171,950) | 9,284
+Total shareholders’ equity | 52,341 | 12,108
+Total liabilities, mezzanine equity and shareholders’ equity | $ | 936,872 | $ | 517,832
+6
+Orion180 Insurance Group Inc. and Subsidiaries
+Condensed Consolidated Statements of Operations and Comprehensive Income (Unaudited)
+(in thousands, except share and per share data)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenues:
+Net premiums earned | $ | 29,935 | $ | 19,648 | $ | 72,206 | $ | 49,070
+Policy fee income | 17,166 | 10,077 | 45,082 | 24,737
+Commission and service fee income | 4,128 | 2,353 | 10,231 | 5,018
+Net investment income | 2,665 | 2,044 | 6,447 | 5,954
+Realized gain (loss) on investments | 4 | — | 9 | (241)
+Total revenues | 53,898 | 34,122 | 133,975 | 84,538
+Expenses:
+Losses and loss adjustment expenses, net | 11,052 | 8,154 | 36,769 | 34,775
+General and administrative expenses | 32,392 | 16,140 | 70,170 | 42,797
+Policy acquisition expenses | (14,486) | (4,405) | (26,832) | (8,556)
+Interest expense | 4,637 | 1,637 | 8,436 | 5,067
+Other expenses | 4,802 | 1,027 | 10,758 | 2,740
+Total expenses | 38,397 | 22,553 | 99,301 | 76,823
+Income before income taxes | 15,501 | 11,569 | 34,674 | 7,715
+Income tax expense | 4,035 | 2,904 | 9,661 | 2,092
+Net income | $ | 11,466 | $ | 8,665 | $ | 25,013 | $ | 5,623
+Other comprehensive income (loss):
+Unrealized holding gain (loss) on available-for-sale securities, net of taxes | $ | (224) | $ | (21) | $ | (564) | $ | 50
+Total other comprehensive income (loss) | (224) | (21) | (564) | 50
+Comprehensive income | $ | 11,242 | $ | 8,644 | $ | 24,449 | $ | 5,673
+Earnings per common share:
+Basic earnings per common share | $ | 0.14 | $ | 0.11 | $ | 0.31 | $ | 0.07
+Diluted earnings per common share | $ | 0.14 | $ | 0.11 | $ | 0.31 | $ | 0.07
+Weighted average number of common shares outstanding - basic | 81,717,917 | 78,792,040 | 79,778,050 | 78,792,040
+Weighted average number of common shares outstanding - diluted | 82,377,121 | 78,792,040 | 80,309,456 | 78,792,040
+7
+Orion180 Insurance Group Inc. and Subsidiaries
+Condensed Consolidated Statements of Cash Flows (Unaudited)
+(in thousands)
+Nine Months Ended September 30,
+2026 | 2025
+Operating activities
+Net income | $ | 25,013 | $ | 5,623
+Adjustments to reconcile net income to net cash from operating activities:
+Amortization and depreciation | 3,527 | 2,441
+Deferred income taxes | (2,186) | (604)
+Share-based compensation expense | 2,165 | 450
+Credit loss expense | 362 | (228)
+Realized (gain) loss on investments | (9) | 241
+Unrealized (gain) loss on interest rate swaps | (550) | 509
+Loss on extinguishment of debt | 4,333 | —
+Changes in operating assets and liabilities:
+Accrued investment income | 31 | (168)
+Commission and service fee income receivable | (1,415) | (218)
+Premiums and other receivables | (16,220) | (2,926)
+Reinsurance recoverable on paid and unpaid losses | (53,730) | (17,276)
+Prepaid reinsurance premiums | (210,661) | (124,479)
+Other assets | (9,268) | (5,998)
+Unpaid losses and loss adjustment expenses | 34,164 | 5,106
+Unearned premiums | 145,044 | 87,970
+Other policyholders' funds | 2,264 | 237
+Reinsurance payable | 170,667 | 85,745
+Deferred policy acquisition costs, net of ceding commissions | 18,166 | 5,100
+Accounts payable and other liabilities | 26,847 | 8,771
+Income taxes payable | (1,267) | (744)
+Net cash from operating activities | 137,277 | 49,552
+Investing activities
+Purchases of fixed maturities held-to-maturity | (9,790) | (15,263)
+Proceeds from maturities of fixed maturities held-to-maturity | 16,543 | 17,015
+Purchases of fixed maturities available-for-sale | (33,954) | (17,217)
+Proceeds from sales and maturities of fixed maturities available-for-sale | 8,376 | 365
+Purchases of short-term investments | (20,250) | (48,504)
+Proceeds from sales and maturities of short-term investments | 39,580 | 10,591
+Purchases of fixed assets | (4,375) | (71)
+Capitalized software expenditures | (8,540) | (5,310)
+Proceeds from disposal of investment in non-affiliate | — | 172
+Net cash used in investing activities | (12,410) | (58,222)
+(continued on next page)
+8
+Nine Months Ended September 30,
+2026 | 2025
+Financing activities
+Proceeds from issuance of common stock, net of underwriting costs | 224,400 | —
+Payments of deferred offering costs | (1,386) | —
+Dividends paid | (206,530) | (12,000)
+Proceeds from debt | 281,543 | —
+Debt issuance costs | (3,858) | (452)
+Payments on debt | (287,400) | (5,250)
+Stock option exercises | 600 | —
+Repurchase of preferred stock | (15,000) | —
+Proceeds from issuance of preferred stock | — | 7,500
+Net cash used in financing activities | (7,631) | (10,202)
+Change in cash, cash equivalents and restricted cash | 117,236 | (18,872)
+Cash, cash equivalents and restricted cash at beginning of period | 56,152 | 109,630
+Cash, cash equivalents and restricted cash at end of period | $ | 173,388 | $ | 90,758
+Supplemental disclosures of cash flow information
+Interest paid | $ | 8,385 | $ | 4,103
+Income taxes paid | $ | 12,839 | $ | 3,057
+Noncash financing activities
+Deferred offering costs in accounts payable and other liabilities | $ | 3,748 | $ | —
+The following tables present a summary of Consolidated adjusted EBITDA and Consolidated adjusted EBITDA margin and a reconciliation of Consolidated adjusted EBITDA from net income (loss):
+Comparison of the three months ended September 30, 2026 and 2025
+Three Months Ended September 30, | $ Change | % Change(4)
+($ in thousands) | 2026 | 2025
+Total revenues | $ | 53,898 | $ | 34,122 | $ | 19,776 | 58.0 | %
+Net income | $ | 11,466 | $ | 8,665 | $ | 2,801 | 32.3 | %
+Net income margin | 21.3 | % | 25.4 | % | — | (4.1) | pp
+Interest expense | $ | 4,637 | $ | 1,637 | $ | 3,000 | 183.3 | %
+Income tax expense | 4,035 | 2,904 | 1,131 | 38.9 | %
+Depreciation | 7 | 3 | 4 | 133.3 | %
+Software amortization | 1,366 | 991 | 375 | 37.8 | %
+Litigation and settlements (1) | (105) | 192 | (297) | NM
+Sponsorship fees (2) | 875 | 875 | — | — | %
+Other non-recurring costs (3) | 2,848 | — | 2,848 | NM
+Consolidated adjusted EBITDA | $ | 25,129 | $ | 15,267 | $ | 9,862 | 64.6 | %
+Consolidated adjusted EBITDA margin | 46.6 | % | 44.7 | % | — | 1.9 | pp
+(1)Represents costs associated with the legal fees and a $6,250 settlement loss contingency, incurred in 2025, offset by a $6,000 settlement recovery, incurred in 2026, resulting from the termination of our underwriting relationship with a previous unrelated fronting carrier and transferring the policies to OIC and OSI.
+(2)Sponsorship fees are associated with our Formula 1 sponsorship agreement.
+(3)Other non-recurring costs consist of non-recurring consulting and audit expenses for public company transition and loss on debt extinguishment.
+(4)NM indicates that change is not meaningful.
+9
+Comparison of the nine months ended September 30, 2026 and 2025
+Nine Months Ended September 30, | $ Change | % Change(4)
+($ in thousands) | 2026 | 2025
+Total revenues | $ | 133,975 | $ | 84,538 | $ | 49,437 | 58.5 | %
+Net income | $ | 25,013 | $ | 5,623 | $ | 19,390 | 344.8 | %
+Net income margin | 18.7 | % | 6.7 | % | — | 12.0 | pp
+Interest expense | $ | 8,436 | $ | 5,067 | $ | 3,369 | 66.5 | %
+Income tax expense | 9,661 | 2,092 | 7,569 | 361.8 | %
+Depreciation | 13 | 5 | 8 | 160.0 | %
+Software amortization | 4,000 | 2,681 | 1,319 | 49.2 | %
+Litigation and settlements (1) | (5,657) | 879 | (6,536) | NM
+Sponsorship fees (2) | 2,625 | 2,625 | — | — | %
+Other non-recurring costs (3) | 6,422 | 195 | 6,227 | 3193.3 | %
+Consolidated adjusted EBITDA | $ | 50,513 | $ | 19,167 | $ | 31,346 | 163.5 | %
+Consolidated adjusted EBITDA margin | 37.7 | % | 22.7 | % | — | 15.0 | pp
+(1)Represents costs associated with the legal fees and a $6,250 settlement loss contingency, incurred in 2025, offset by a $6,000 settlement recovery, incurred in 2026, resulting from the termination of our underwriting relationship with a previous unrelated fronting carrier and transferring the policies to OIC and OSI.
+(2)Sponsorship fees are associated with our Formula 1 sponsorship agreement.
+(3)Other non-recurring costs consist of non-recurring consulting and audit expenses for public company transition and discontinued capital raises, loss on debt extinguishment. actuarial consulting fees incurred for the establishment of the carrier business, and one-time costs for the Dallas and Melbourne office spaces.
+(4)NM indicates that change is not meaningful.
+Segment Results
+We have identified two operating segments: Services and Underwriting.
+Services segment
+The Services segment includes technology-enabled policy servicing operations, which include intercompany revenue earned through service arrangements in place between the Services segment and the Underwriting segment.
+We evaluate the performance of the Services segment primarily using Services Adjusted EBITDA as the key performance measure and also using commission and fees revenue, as an additional performance measure.
+Commission and fees revenue is a non-GAAP measure and additional services segment performance measure that management uses, which reflects services segment revenue less other income as such items are not directly attributable to the operating performance of the services segment. Management uses this non-GAAP financial measure to monitor operating revenue for the services business. Commission and fees revenue should not be considered in isolation or as an alternative to revenue.
+Underwriting segment
+The Underwriting segment includes a conventional, regulated insurance model focused on risk selection, pricing, and statutory capital management. The segment also includes a segregated account designed to assume reinsurance risk.
+Management evaluates the performance of the Underwriting segment using total revenue, net premiums earned, underwriting adjusted EBITDA, and key underwriting ratios, including gross loss ratio, net loss ratio, expense ratio, and combined ratio. These measures collectively provide insight into premium growth, underwriting effectiveness, cost efficiency, and overall profitability of our risk-bearing operations.
+10
+Segment results
+Segment Adjusted EBITDA of each operating segment represents net income before interest expense, income tax expense, depreciation, amortization, sponsorship fees and other non-recurring costs. For purposes of this measure, interest expense excludes amortization of debt issuance costs and unrealized losses on interest rate swap agreements, which are included in interest expense in our consolidated statements of operations.
+We consider the segment presentation of our Services and Underwriting segments prior to elimination to be the best way to evaluate our business and how these business components would be presented if each were standalone operations.
+The following tables present supplemental information of revenue and profitability by operating segment for our two reportable segments:
+11
+Three Months Ended September 30, 2026 | Underwriting | Services | Elimination | Consolidated
+Revenues:
+Gross premiums written | $ | 203,815 | $ | — | $ | — | $ | 203,815
+Change in gross unearned premiums | (43,884) | — | — | (43,884)
+Gross premiums earned | 159,931 | — | — | 159,931
+Ceded premiums earned | (129,996) | — | — | (129,996)
+Net premiums earned | 29,935 | — | — | 29,935
+Policy fee income | — | 17,166 | — | 17,166
+Commission income | — | 54,520 | (50,952) | 3,568
+Service fee income | — | 3,379 | (2,819) | 560
+Other income* | 2,156 | 513 | — | 2,669
+Total segment revenues | $ | 32,091 | $ | 75,578 | $ | (53,771) | $ | 53,898
+Expenses:
+Losses and loss adjustment expenses, net(1) | 12,808 | 371 | (2,127) | 11,052
+Policy acquisition expenses | 3,897 | 27,626 | (46,009) | (14,486)
+Salaries and software development costs | — | 15,348 | — | 15,348
+Capitalization of salaries and software development costs | — | (3,712) | — | (3,712)
+Other general and administrative expenses | 3,897 | 17,360 | (690) | 20,567
+Total segment expenses | $ | 20,602 | $ | 56,993 | $ | (48,826) | $ | 28,769
+Segment Adjusted EBITDA | $ | 11,489 | $ | 18,585 | $ | (4,945) | $ | 25,129
+Reconciliation of Segment Adjusted EBITDA:
+Interest expense | (4,637)
+Income tax expense | (4,035)
+Depreciation | (7)
+Software amortization | (1,366)
+Litigation and settlement(2) | 105
+Sponsorship fees(3) | (875)
+Other non-recurring costs(4) | (2,848)
+Net income | $ | 11,466
+*Other income consists of net investment income and realized gain / (loss) on investments.
+(1)Loss adjustment expenses on Services segment represent costs incurred adjusting claims of OIC and OSI.
+(2)Represents costs associated with the legal fees and a $6,250 settlement loss contingency, incurred in 2025, offset by a $6,000 settlement recovery, incurred in 2026, resulting from the termination of our underwriting relationship with a previous unrelated fronting carrier and transferring the policies to OIC and OSI.
+(3)Sponsorship fees are associated with our Formula 1 sponsorship agreement.
+(4)Other non-recurring costs consist of non-recurring consulting and audit expenses for public company transition and loss on debt extinguishment.
+12
+Three Months Ended September 30, 2025 | Underwriting | Services | Elimination | Consolidated
+Revenues:
+Gross premiums written | $ | 127,181 | $ | — | $ | — | $ | 127,181
+Change in gross unearned premiums | (35,359) | — | — | (35,359)
+Gross premiums earned | 91,822 | — | — | 91,822
+Ceded premiums earned | (72,174) | — | — | (72,174)
+Net premiums earned | 19,648 | — | — | 19,648
+Policy fee income | — | 10,077 | — | 10,077
+Commission income | — | 34,647 | (32,294) | 2,353
+Service fee income | — | 949 | (949) | —
+Other income* | 1,850 | 194 | — | 2,044
+Total segment revenues | $ | 21,498 | $ | 45,867 | $ | (33,243) | $ | 34,122
+Expenses:
+Losses and loss adjustment expenses, net | 9,332 | — | (1,178) | 8,154
+Policy acquisition expenses | 7,214 | 16,792 | (28,411) | (4,405)
+Salaries and software development costs | — | 7,786 | — | 7,786
+Capitalization of salaries and software development costs | — | (1,422) | — | (1,422)
+Other general and administrative expenses | 2,280 | 6,734 | (272) | 8,742
+Total segment expenses | $ | 18,826 | $ | 29,890 | $ | (29,861) | $ | 18,855
+Segment Adjusted EBITDA | $ | 2,672 | $ | 15,977 | $ | (3,382) | $ | 15,267
+Reconciliation of Segment Adjusted EBITDA:
+Interest expense | (1,637)
+Income tax expense | (2,904)
+Depreciation | (3)
+Software amortization | (991)
+Litigation and settlement(1) | (192)
+Sponsorship fees(2) | (875)
+Net income | $ | 8,665
+*Other income consists of net investment income and realized gain / (loss) on investments.
+(1)Represents costs associated with the legal fees and a $6,250 settlement loss contingency, incurred in 2025, offset by a $6,000 settlement recovery, incurred in 2026, resulting from the termination of our underwriting relationship with a previous unrelated fronting carrier and transferring the policies to OIC and OSI.
+(2)Sponsorship fees are associated with our Formula 1 sponsorship agreement.
+13
+Nine Months Ended September 30, 2026 | Underwriting | Services | Elimination | Consolidated
+Revenues:
+Gross premiums written | $ | 558,199 | $ | — | $ | — | $ | 558,199
+Change in gross unearned premiums | (145,223) | — | — | (145,223)
+Gross premiums earned | 412,976 | — | — | 412,976
+Ceded premiums earned | (340,770) | — | — | (340,770)
+Net premiums earned | 72,206 | — | — | 72,206
+Policy fee income | — | 45,082 | — | 45,082
+Commission income | — | 148,230 | (139,548) | 8,682
+Service fee income | — | 9,802 | (8,253) | 1,549
+Other income* | 5,488 | 968 | — | 6,456
+Total segment revenues | $ | 77,694 | $ | 204,082 | $ | (147,801) | $ | 133,975
+Expenses:
+Losses and loss adjustment expenses, net(1) | 42,229 | 1,080 | (6,540) | 36,769
+Policy acquisition expenses | 21,330 | 76,550 | (124,712) | (26,832)
+Salaries and software development costs | — | 36,346 | — | 36,346
+Capitalization of salaries and software development costs | — | (8,540) | — | (8,540)
+Other general and administrative expenses | 9,761 | 37,670 | (1,712) | 45,719
+Total segment expenses | $ | 73,320 | $ | 143,106 | $ | (132,964) | $ | 83,462
+Segment Adjusted EBITDA | $ | 4,374 | $ | 60,976 | $ | (14,837) | $ | 50,513
+Reconciliation of Segment Adjusted EBITDA:
+Interest expense | (8,436)
+Income tax expense | (9,661)
+Depreciation | (13)
+Software amortization | (4,000)
+Litigation and settlement(2) | 5,657
+Sponsorship fees(3) | (2,625)
+Other non-recurring costs(4) | (6,422)
+Net income | $ | 25,013
+*Other income consists of net investment income and realized gain / (loss) on investments.
+(1)Loss adjustment expenses on Services segment represent costs incurred adjusting claims of OIC and OSI.
+(2)Represents costs associated with the legal fees and a $6,250 settlement loss contingency, incurred in 2025, offset by a $6,000 settlement recovery, incurred in 2026, resulting from the termination of our underwriting relationship with a previous unrelated fronting carrier and transferring the policies to OIC and OSI.
+(3)Sponsorship fees are associated with our Formula 1 sponsorship agreement.
+(4)Other non-recurring costs consist of non-recurring consulting and audit expenses for public company transition and loss on debt extinguishment.
+14
+Nine Months Ended September 30, 2025 | Underwriting | Services | Elimination | Consolidated
+Revenues:
+Gross premiums written | $ | 324,754 | $ | — | $ | — | $ | 324,754
+Change in gross unearned premiums | (87,970) | — | — | (87,970)
+Gross premiums earned | 236,784 | — | — | 236,784
+Ceded premiums earned | (187,714) | — | — | (187,714)
+Net premiums earned | 49,070 | — | — | 49,070
+Policy fee income | — | 24,737 | — | 24,737
+Commission income | — | 86,685 | (81,667) | 5,018
+Service fee income | — | 3,436 | (3,436) | —
+Other income* | 5,111 | 602 | — | 5,713
+Total segment revenues | $ | 54,181 | $ | 115,460 | $ | (85,103) | $ | 84,538
+Expenses:
+Losses and loss adjustment expenses, net | 38,211 | — | (3,436) | 34,775
+Policy acquisition expenses | 21,811 | 43,159 | (73,526) | (8,556)
+Salaries and software development costs | — | 21,584 | — | 21,584
+Capitalization of salaries and software development costs | — | (5,284) | — | (5,284)
+Other general and administrative expenses | 5,420 | 17,934 | (502) | 22,852
+Total segment expenses | $ | 65,442 | $ | 77,393 | $ | (77,464) | $ | 65,371
+Segment Adjusted EBITDA | $ | (11,261) | $ | 38,067 | $ | (7,639) | $ | 19,167
+Reconciliation of Segment Adjusted EBITDA:
+Interest expense | (5,067)
+Income tax expense | (2,092)
+Depreciation | (5)
+Software amortization | (2,681)
+Litigation and settlement(1) | (879)
+Sponsorship fees(2) | (2,625)
+Other non-recurring costs (3) | (195)
+Net income | $ | 5,623
+*Other income consists of net investment income and realized gain / (loss) on investments.
+(1)Represents costs associated with the legal fees and a $6,250 settlement loss contingency, incurred in 2025, offset by a $6,000 settlement recovery, incurred in 2026, resulting from the termination of our underwriting relationship with a previous unrelated fronting carrier and transferring the policies to OIC and OSI.
+(2)Sponsorship fees are associated with our Formula 1 sponsorship agreement.
+(3)Other non-recurring costs consist of non-recurring consulting and audit expenses for discontinued capital raises, actuarial consulting fees incurred for the establishment of the carrier business, and one-time costs for the Dallas and Melbourne office spaces.
+Services Segment
+The following tables present the specified performance measures of the Services segment:
+Three Months Ended September 30,
+($ in thousands) | 2026 | 2025 | $ Change | % Change
+Commission and fees revenue | $ | 75,065 | $ | 45,673 | $ | 29,392 | 64.4 | %
+Services adjusted EBITDA | $ | 18,585 | $ | 15,977 | $ | 2,608 | 16.3 | %
+Nine Months Ended September 30,
+($ in thousands) | 2026 | 2025 | $ Change | % Change
+Commission and fees revenue | $ | 203,114 | $ | 114,858 | $ | 88,256 | 76.8 | %
+Services adjusted EBITDA | $ | 60,976 | $ | 38,067 | $ | 22,909 | 60.2 | %
+15
+The following tables present a reconciliation of commission and fees revenue to that of total revenues for the Services segment:
+Three Months Ended September 30,
+($ in thousands) | 2026 | 2025 | $ Change | % Change
+Policy fee income | $ | 17,166 | $ | 10,077 | $ | 7,089 | 70.3 | %
+Commission income | 54,520 | 34,647 | 19,873 | 57.4 | %
+Service fee income | 3,379 | 949 | 2,430 | 256.1 | %
+Commission and fees revenue | 75,065 | 45,673 | 29,392 | 64.4 | %
+Other income | 513 | 194 | 319 | 164.4 | %
+Total Services segment revenue | $ | 75,578 | $ | 45,867 | $ | 29,711 | 64.8 | %
+Nine Months Ended September 30,
+($ in thousands) | 2026 | 2025 | $ Change | % Change
+Policy fee income | $ | 45,082 | $ | 24,737 | $ | 20,345 | 82.2 | %
+Commission income | 148,230 | 86,685 | 61,545 | 71.0 | %
+Service fee income | 9,802 | 3,436 | 6,366 | 185.3 | %
+Commission and fees revenue | 203,114 | 114,858 | 88,256 | 76.8 | %
+Other income | 968 | 602 | 366 | 60.8 | %
+Total Services segment revenue | $ | 204,082 | $ | 115,460 | $ | 88,622 | 76.8 | %
+Underwriting Segment
+The following tables present the specified performance measures of the Underwriting segment:
+Three Months Ended September 30,
+($ in thousands) | 2026 | 2025 | $ Change | % Change
+Total revenue* | $ | 32,091 | $ | 21,498 | $ | 10,593 | 49.3 | %
+Net premiums earned | $ | 29,935 | $ | 19,648 | $ | 10,287 | 52.4 | %
+Underwriting adjusted EBITDA (1) | $ | 11,489 | $ | 2,672 | $ | 8,817 | 330.0 | %
+Gross loss ratio | 32.8 | % | 27.3 | % | — | 5.5 pp
+Net loss ratio | 42.8 | % | 47.5 | % | — | (4.7) pp
+Expense ratio | 26.0 | % | 48.3 | % | — | (22.3) pp
+Combined ratio | 68.8 | % | 95.8 | % | — | (27.0) pp
+*Total revenue consists of net premiums earned, net investment income and realized gain / (loss) on investments.
+(1)Underwriting adjusted EBITDA is a GAAP segment performance measure used by management to evaluate the Underwriting segment. For further information, see “Segment Results” within this earnings release.
+Nine Months Ended September 30,
+($ in thousands) | 2026 | 2025 | $ Change | % Change
+Total revenue* | $ | 77,694 | $ | 54,181 | $ | 23,513 | 43.4 | %
+Net premiums earned | $ | 72,206 | $ | 49,070 | $ | 23,136 | 47.1 | %
+Underwriting adjusted EBITDA (1) | $ | 4,374 | $ | (11,261) | $ | 15,635 | NM
+Gross loss ratio | 36.2 | % | 33.7 | % | — | 2.5 pp
+Net loss ratio | 58.5 | % | 77.8 | % | — | (19.3) pp
+Expense ratio | 43.1 | % | 55.5 | % | — | (12.4) pp
+Combined ratio | 101.5 | % | 133.3 | % | — | (31.8) pp
+*Total revenue consists of net premiums earned, net investment income and realized gain / (loss) on investments.
+(1)Underwriting adjusted EBITDA is a GAAP segment performance measure used by management to evaluate the Underwriting segment. For further information, see “Segment Results” within this earnings release.
+16

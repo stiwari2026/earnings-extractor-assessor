@@ -750,5 +750,136 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/921582/000162828026070630/imax-q32026epr.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/921582/000162828026070630/0001628280-26-070630-index.htm",
     "saved_at": "2026-11-11T06:15:03+08:00"
+  },
+  {
+    "cik": "2124472",
+    "company": "Orion180 Insurance Group Inc.",
+    "accession": "0001628280-26-072706",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 53.898,
+        "unit": "USD millions",
+        "quote": "Total revenues | 53,898 | 34,122 | 133,975 | 84,538"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 11.466,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 11,466 | $ | 8,665 | $ | 25,013 | $ | 5,623"
+      },
+      "diluted_eps": {
+        "value": 0.14,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per common share | $ | 0.14 | $ | 0.11 | $ | 0.31 | $ | 0.07"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the company grew managed premiums quickly while significantly increasing profitability year on year.",
+        "quote": "We delivered an excellent quarter across our key metrics, rapidly growing our managed premiums while significantly increasing our profitability on a year-over-year basis"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Management highlights that net income grew 32% to $11 million from $9 million a year earlier.",
+        "quote": "Net income grew 32% to $11 million during the third quarter of 2026 vs. $9 million in the same quarter during the prior year."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "Management highlights that managed premiums written grew 60% to $204 million.",
+        "quote": "Managed premiums written grew 60% to $204 million during the third quarter of 2026 vs. $127 million in the prior-year period."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says the company is well placed to produce durable growth in both revenue and profit.",
+        "quote": "We are well-positioned to produce durable growth on both our top and bottom lines"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter excellent, cites the IPO as a major milestone and says the company is well-positioned for durable growth."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2124472-0001628280-26-072706.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2124472/000162828026072706/ex-991x2026q3earningsrelea.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2124472/000162828026072706/0001628280-26-072706-index.htm",
+    "saved_at": "2026-11-13T06:08:50+08:00"
+  },
+  {
+    "cik": "1662684",
+    "company": "KULR Technology Group, Inc.",
+    "accession": "0001104659-26-124826",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 7.4,
+        "unit": "USD millions",
+        "quote": "Revenue for the third quarter ended September 30, 2026 increased 197% to $7.40 million, compared to $2.49 million in the same period last year."
+      },
+      "operating_income": {
+        "value": -11.0,
+        "unit": "USD millions",
+        "quote": "Loss from operations was $11.00 million for the third quarter of 2026, compared to $8.74 million in the same period last year"
+      },
+      "net_income": {
+        "value": 4.47,
+        "unit": "USD millions",
+        "quote": "Net income for the third quarter of 2026 was $4.47 million, or $0.10 per basic and diluted share"
+      },
+      "diluted_eps": {
+        "value": 0.1,
+        "unit": "USD per share",
+        "quote": "Net income for the third quarter of 2026 was $4.47 million, or $0.10 per basic and diluted share"
+      }
+    },
+    "guidance": {
+      "text": "The company expects research and development expenses to fall from the fourth quarter of 2026 and further in 2027.",
+      "quote": "The Company expects R&D expenses to decrease beginning in the fourth quarter of 2026 and further in 2027"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says product sales nearly quadrupled year on year, driven by the KULR ONE platform.",
+        "quote": "Product sales nearly quadrupled year-over-year, and the growth came from our KULR ONE platform."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says gross margin returned to positive territory but is not yet where the business can run.",
+        "quote": "Gross margin returned to positive territory, though it is not yet where this business can run."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CFO expects R&D and SG&A to decline as product revenue scales, and is focused on improving gross margins.",
+        "quote": "We expect R&D and SG&A to decline as we scale the product revenue business, and we are focused on improving gross margins as production volume increases and repeat orders replace initial production builds."
+      },
+      {
+        "id": "M4",
+        "topic": "profit",
+        "claim": "Management says third-quarter net income came from a non-recurring gain on digital assets and does not reflect operating profitability.",
+        "quote": "Third quarter net income was driven by a $15.8 million non-recurring change in the fair value of digital assets, reflecting the recovery in the value of the Company’s Bitcoin from June 30, 2026 to the dates of sale, and does not reflect operating profitability."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO cites strong product growth, but admits gross margin is not yet where it can run, and the CFO speaks of a path toward profitability rather than profit."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1662684-0001104659-26-124826.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1662684/000110465926124826/tm2629340d2_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1662684/000110465926124826/0001104659-26-124826-index.htm",
+    "saved_at": "2026-11-13T06:08:50+08:00"
   }
 ]

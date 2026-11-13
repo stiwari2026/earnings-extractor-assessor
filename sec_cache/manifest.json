@@ -1,123 +1,131 @@
 {
-  "fetched_at": "2026-11-12T10:30:17+08:00",
+  "fetched_at": "2026-11-13T09:48:28+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-09",
-    "end": "2026-11-11",
+    "start": "2026-11-11",
+    "end": "2026-11-12",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 17,
-  "answered": 17,
+  "requests": 18,
+  "answered": 18,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 1516 ms"
+      "detail": "HTTP 200, 60 KB in 554 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 319 ms"
+      "detail": "HTTP 200, 59 KB in 867 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-12&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 128 ms"
-    },
-    {
-      "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-11&from=300",
-      "ok": true,
-      "detail": "HTTP 200, 53 KB in 1354 ms"
+      "detail": "HTTP 200, 56 KB in 916 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 51 ms"
+      "detail": "HTTP 200, 149 KB in 28 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 18 ms"
+      "detail": "HTTP 200, 156 KB in 29 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 17 ms"
+      "detail": "HTTP 200, 154 KB in 23 ms"
     },
     {
-      "name": "Orion180 Insurance Group Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2124472/000162828026072706/index.json",
+      "name": "Spectrum Brands Holdings, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/109177/000010917726000042/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 165 ms"
+      "detail": "HTTP 200, 1 KB in 71 ms"
     },
     {
-      "name": "Orion180 Insurance Group Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2124472/000162828026072706/ex-991x2026q3earningsrelea.htm",
+      "name": "Spectrum Brands Holdings, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/109177/000010917726000042/earningsreleaseexhibit991.htm",
       "ok": true,
-      "detail": "HTTP 200, 618 KB in 151 ms"
+      "detail": "HTTP 200, 414 KB in 57 ms"
     },
     {
-      "name": "KULR Technology Group, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1662684/000110465926124826/index.json",
+      "name": "Sagimet Biosciences Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1400118/000119312526457000/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 93 ms"
+      "detail": "HTTP 200, 5 KB in 29 ms"
     },
     {
-      "name": "KULR Technology Group, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1662684/000110465926124826/tm2629340d2_ex99-1.htm",
+      "name": "Sagimet Biosciences Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1400118/000119312526457000/d123481dex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 27 KB in 121 ms"
+      "detail": "HTTP 200, 55 KB in 46 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 36 ms"
+      "detail": "HTTP 200, 3,174 KB in 83 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 55 ms"
+      "detail": "HTTP 200, 4,447 KB in 82 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 111 ms"
+      "detail": "HTTP 200, 2,745 KB in 90 ms"
     },
     {
-      "name": "Orion180 Insurance Group Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002124472.json",
+      "name": "Spectrum Brands Holdings, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000109177.json",
       "ok": true,
-      "detail": "HTTP 200, 139 KB in 216 ms"
+      "detail": "HTTP 200, 4,538 KB in 81 ms"
     },
     {
-      "name": "KULR Technology Group, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001662684.json",
+      "name": "Sagimet Biosciences Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001400118.json",
       "ok": true,
-      "detail": "HTTP 200, 1,474 KB in 62 ms"
+      "detail": "HTTP 200, 439 KB in 368 ms"
     },
     {
       "name": "SR Bancorp, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001951276.json",
       "ok": true,
-      "detail": "HTTP 200, 901 KB in 21 ms"
+      "detail": "HTTP 200, 958 KB in 171 ms"
+    },
+    {
+      "name": "Orion180 Insurance Group Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002124472.json",
+      "ok": true,
+      "detail": "HTTP 200, 139 KB in 642 ms"
+    },
+    {
+      "name": "KULR Technology Group, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001662684.json",
+      "ok": true,
+      "detail": "HTTP 200, 1,474 KB in 25 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000109177.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001400118.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001662684.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001951276.json",
@@ -128,10 +136,9 @@
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
-    "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1662684_000110465926124826_index.json",
-    "www.sec.gov_Archives_edgar_data_1662684_000110465926124826_tm2629340d2_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_2124472_000162828026072706_ex-991x2026q3earningsrelea.htm",
-    "www.sec.gov_Archives_edgar_data_2124472_000162828026072706_index.json"
+    "www.sec.gov_Archives_edgar_data_109177_000010917726000042_earningsreleaseexhibit991.htm",
+    "www.sec.gov_Archives_edgar_data_109177_000010917726000042_index.json",
+    "www.sec.gov_Archives_edgar_data_1400118_000119312526457000_d123481dex991.htm",
+    "www.sec.gov_Archives_edgar_data_1400118_000119312526457000_index.json"
   ]
 }

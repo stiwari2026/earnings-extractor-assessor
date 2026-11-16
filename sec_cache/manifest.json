@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-15T09:18:29+08:00",
+  "fetched_at": "2026-11-16T08:58:57+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-11",
-    "end": "2026-11-14",
+    "end": "2026-11-15",
     "first_run": false,
     "note": null
   },
@@ -14,27 +14,27 @@
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 120 ms"
+      "detail": "HTTP 200, 60 KB in 88 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 63 ms"
+      "detail": "HTTP 200, 60 KB in 37 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 53 ms"
+      "detail": "HTTP 200, 60 KB in 37 ms"
     },
     {
       "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-14&from=300",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-11&enddt=2026-11-15&from=300",
       "ok": true,
-      "detail": "HTTP 200, 55 KB in 47 ms"
+      "detail": "HTTP 200, 55 KB in 32 ms"
     },
     {
       "name": "Alphabet filings list",
@@ -46,100 +46,100 @@
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 48 ms"
+      "detail": "HTTP 200, 156 KB in 39 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 20 ms"
+      "detail": "HTTP 200, 154 KB in 40 ms"
     },
     {
-      "name": "SOLESENCE, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/883107/000117184326007397/index.json",
+      "name": "REVIVA PHARMACEUTICALS HOLDINGS, INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1742927/000143774926036647/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 106 ms"
+      "detail": "HTTP 200, 1 KB in 69 ms"
     },
     {
-      "name": "SOLESENCE, INC. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/883107/000117184326007397/0001171843-26-007397-index.htm",
+      "name": "REVIVA PHARMACEUTICALS HOLDINGS, INC. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1742927/000143774926036647/0001437749-26-036647-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 9 KB in 63 ms"
+      "detail": "HTTP 200, 10 KB in 65 ms"
     },
     {
-      "name": "SOLESENCE, INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/883107/000117184326007397/exh_991.htm",
+      "name": "REVIVA PHARMACEUTICALS HOLDINGS, INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1742927/000143774926036647/ex_1042036.htm",
       "ok": true,
-      "detail": "HTTP 200, 157 KB in 105 ms"
+      "detail": "HTTP 200, 162 KB in 60 ms"
     },
     {
-      "name": "Candel Therapeutics, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526458316/index.json",
+      "name": "EDGEWELL PERSONAL CARE Co filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1096752/000162828026073042/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 58 ms"
+      "detail": "HTTP 200, 1 KB in 42 ms"
     },
     {
-      "name": "Candel Therapeutics, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526458316/cadl-ex99_1.htm",
+      "name": "EDGEWELL PERSONAL CARE Co press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1096752/000162828026073042/q4fy26-epcexhibit991.htm",
       "ok": true,
-      "detail": "HTTP 200, 164 KB in 71 ms"
+      "detail": "HTTP 200, 580 KB in 71 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 108 ms"
+      "detail": "HTTP 200, 3,174 KB in 114 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 19 ms"
+      "detail": "HTTP 200, 4,447 KB in 65 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 25 ms"
+      "detail": "HTTP 200, 2,745 KB in 84 ms"
     },
     {
-      "name": "SOLESENCE, INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000883107.json",
+      "name": "REVIVA PHARMACEUTICALS HOLDINGS, INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001742927.json",
       "ok": true,
-      "detail": "HTTP 200, 2,099 KB in 47 ms"
+      "detail": "HTTP 200, 739 KB in 290 ms"
     },
     {
-      "name": "Candel Therapeutics, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001841387.json",
+      "name": "EDGEWELL PERSONAL CARE Co company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001096752.json",
       "ok": true,
-      "detail": "HTTP 200, 810 KB in 199 ms"
+      "detail": "HTTP 200, 3,799 KB in 730 ms"
     },
     {
       "name": "SR Bancorp, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001951276.json",
       "ok": true,
-      "detail": "HTTP 200, 958 KB in 166 ms"
+      "detail": "HTTP 200, 958 KB in 430 ms"
     },
     {
       "name": "Orion180 Insurance Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002124472.json",
       "ok": true,
-      "detail": "HTTP 200, 139 KB in 152 ms"
+      "detail": "HTTP 200, 139 KB in 128 ms"
     },
     {
       "name": "KULR Technology Group, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001662684.json",
       "ok": true,
-      "detail": "HTTP 200, 1,474 KB in 197 ms"
+      "detail": "HTTP 200, 1,474 KB in 279 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000883107.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001096752.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001662684.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001841387.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001742927.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001951276.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0002124472.json",
     "data.sec.gov_submissions_CIK0001018724.json",
@@ -149,10 +149,10 @@
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
     "efts.sec.gov_search-index_from300.json",
-    "www.sec.gov_Archives_edgar_data_1841387_000119312526458316_cadl-ex99_1.htm",
-    "www.sec.gov_Archives_edgar_data_1841387_000119312526458316_index.json",
-    "www.sec.gov_Archives_edgar_data_883107_000117184326007397_0001171843-26-007397-index.htm",
-    "www.sec.gov_Archives_edgar_data_883107_000117184326007397_exh_991.htm",
-    "www.sec.gov_Archives_edgar_data_883107_000117184326007397_index.json"
+    "www.sec.gov_Archives_edgar_data_1096752_000162828026073042_index.json",
+    "www.sec.gov_Archives_edgar_data_1096752_000162828026073042_q4fy26-epcexhibit991.htm",
+    "www.sec.gov_Archives_edgar_data_1742927_000143774926036647_0001437749-26-036647-index.htm",
+    "www.sec.gov_Archives_edgar_data_1742927_000143774926036647_ex_1042036.htm",
+    "www.sec.gov_Archives_edgar_data_1742927_000143774926036647_index.json"
   ]
 }

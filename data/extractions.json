@@ -881,5 +881,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1662684/000110465926124826/tm2629340d2_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1662684/000110465926124826/0001104659-26-124826-index.htm",
     "saved_at": "2026-11-13T06:08:50+08:00"
+  },
+  {
+    "cik": "879407",
+    "company": "ARROWHEAD PHARMACEUTICALS, INC.",
+    "accession": "0000879407-26-000077",
+    "release_date": "2026-11-12",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says Arrowhead is building a commercial business around REDEMPLO.",
+        "quote": "We are building a commercial business around REDEMPLO®"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The company is preparing for a possible US launch of plozasiran in sHTG in the second quarter of 2027, subject to FDA approval.",
+        "quote": "Submitted sNDA to FDA for plozasiran and preparing for a potential U.S. launch in sHTG in the second quarter of 2027, pending successful regulatory filing, review, and approval."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The company says the new $400 million term loan carries lower borrowing costs than the retired facility.",
+        "quote": "Lower borrowing costs. The new facility carries an interest rate of SOFR plus 5.50%, compared to an annual rate of 15% in the retired facility."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO believes the company approaches 2027 with its strongest mix of near-term commercial opportunity and scientific capability.",
+        "quote": "I believe we approach 2027 with the strongest combination of near-term commercial opportunity and scientific capability in our history."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the company has fundamentally changed and approaches 2027 in its strongest position, and mentions no setback."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/879407-0000879407-26-000077.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/879407/000087940726000077/arwr-202611128kex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/879407/000087940726000077/0000879407-26-000077-index.htm",
+    "saved_at": "2026-11-18T06:08:00+08:00"
+  },
+  {
+    "cik": "1851961",
+    "company": "GCT Semiconductor Holding, Inc.",
+    "accession": "0000929638-26-004266",
+    "release_date": "2026-11-12",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1.069,
+        "unit": "USD millions",
+        "quote": "Total net revenues | 1,069"
+      },
+      "operating_income": {
+        "value": -7.372,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (7,372"
+      },
+      "net_income": {
+        "value": -7.388,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (7,388"
+      },
+      "diluted_eps": {
+        "value": -0.08,
+        "unit": "USD per share",
+        "quote": "Basic and diluted | $ | (0.08"
+      }
+    },
+    "guidance": {
+      "text": "The company now expects the ramp in 5G shipments to extend into the first half of 2027, as customers take longer than expected.",
+      "quote": "the Company now expects the ramp in 5G shipments to extend into the first half of 2027"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says revenue rose about 149% on the third quarter of 2025, driven by product sales including 5G.",
+        "quote": "Revenue increased approximately 149% compared to the third quarter of 2025, driven by sustained level of product sales including 5G as customers advanced their programs toward launch."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CFO says the company has continued to reduce its operating costs.",
+        "quote": "At the same time, we have continued to reduce our operating costs, which, together with our current cash position, keeps us well prepared as customer deployments move forward."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says some customer programs are taking longer than planned to reach production and deployment.",
+        "quote": "With our existing customers, our programs continue to progress even as some are taking longer than planned to reach production and deployment."
+      },
+      {
+        "id": "M4",
+        "topic": "margins",
+        "claim": "The company says gross margin was negative because product revenue is too low to absorb production overhead, and expects it to improve as 5G sales ramp.",
+        "quote": "We expect gross margins to improve as 5G product sales ramp up and contribute more significantly to revenue."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "Management cites revenue growth and lower costs but says customer programs are taking longer than planned and the 5G ramp moves into 2027."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1851961-0000929638-26-004266.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1851961/000092963826004266/exhibit99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1851961/000092963826004266/0000929638-26-004266-index.htm",
+    "saved_at": "2026-11-18T06:08:00+08:00"
   }
 ]

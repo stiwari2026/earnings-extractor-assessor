@@ -1,0 +1,142 @@
+Company: GCT Semiconductor Holding, Inc. (CIK 1851961)
+Accession: 0000929638-26-004266
+Results released: 2026-11-12
+Press release: https://www.sec.gov/Archives/edgar/data/1851961/000092963826004266/exhibit99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1851961/000092963826004266/0000929638-26-004266-index.htm
+Saved: 2026-11-18T06:08:00+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 exhibit99-1.htm PRESS RELEASE, DATED NOVEMBER 12, 2026.
+Exhibit 99.1
+GCT Semiconductor Holding, Inc. Provides Business Update and Reports Third Quarter 2026 Financial Results
+Year-to-Date 5G Chipset Shipments Exceeded 11,300 Units
+SAN JOSE, CA – November 12, 2026 – GCT Semiconductor Holding, Inc. (“GCT” or the “Company”) (NYSE: GCTS), a leading designer and supplier of 5G semiconductors powering the AI data pipeline with wireless connectivity, today provided an update on business developments and reported financial results for the third quarter ended September 30, 2026.
+Expanding 5G Applications and Advancing Customer Programs
+• | Shipped more than 3,200 5G chipsets in Q3, bringing year-to-date shipments to over 11,300 units, reflecting continued progress across GCT’s customer programs and the expanding range of applications for its 5G chipsets.
+• | Expanded GCT’s total addressable market (TAM) to include a terrestrial-based location service with a new potential 5G customer, a leader in next-generation geolocation solutions to augment or replace GNSS (GPS), which received the majority of GCT’s Q3 5G chipset shipments for proof-of-concept testing of precise 3D location capabilities indoors, in urban canyons and in jammed environments.
+• | Continued progress on our program with one of the world’s largest satellite communications providers as it develops next-generation user equipment for high-bandwidth, high-speed communications across satellite and terrestrial networks using GCT’s 5G chipset.
+• | Advanced ongoing terrestrial 5G development and integration work with a leading global telecom equipment supplier, delivering additional 5G chipsets during the third quarter.
+“We continued to make progress across our 5G customer programs in the third quarter, advancing integration and certification work with existing customers while expanding the range of applications our 5G chipsets can serve,” said John Schlaefer, Chief Executive Officer of GCT. “As a result, our 5G chipsets will be deployed beyond broadband and satellite connectivity into an even broader addressable market. That included adding a new customer in terrestrial services providing GNSS replacement with precise Z-axis positioning, which accounted for the majority of our 5G shipments in the quarter as it began proof-of-concept testing. With our existing customers, our programs continue to progress even as some are taking longer than planned to reach production and deployment. While the pace of our 5G chipset ramp is being driven primarily by customer integration schedules, not the capabilities of our 5G chipset, we are working closely alongside our customers to bring those programs to launch. We have secured our wafer capacity that we believe is sufficient to support our expected demand through the first half of 2027, positioning us to scale shipments as those launches occur.”
+Third Quarter 2026 Financial Results
+Results compare the 2026 fiscal third quarter ended September 30, 2026, to the 2025 fiscal third quarter ended September 30, 2025.
+• | Net revenues were $1.1 million, a 148.6% increase from $0.4 million.
+• | Gross margin was negative as we continue to experience low product revenue, which is currently not sufficient to fully absorb production overhead costs and not representative of our expectations regarding profitability of our products and services in future reporting periods. We expect gross margins to improve as 5G product sales ramp up and contribute more significantly to revenue. Gross margin for the three months ended September 30, 2025 was also negative.
+• | Total operating expenses were $7.3 million, an 11.2% decrease from $8.2 million.
+• | Net loss was $7.4 million, a 46.7% decrease from $13.8 million. Net loss for the third quarter of 2026 included $6.2 million in gains from change in fair value of common stock warrant liabilities and $5.4 million in losses on foreign currency transactions.
+• | Adjusted EBITDA loss was $6.5 million, a decrease of 8.1% from $7.0 million.
+• | Cash and cash equivalents of $17.2 million as of September 30, 2026.
+“Our third quarter results show continued year-over-year growth, though shipment volumes in the quarter reflected the extended timing of customer deployments rather than the full potential of our 5G programs,” said Edmond Cheng, Chief Financial Officer of GCT. “Revenue increased approximately 149% compared to the third quarter of 2025, driven by sustained level of product sales including 5G as customers advanced their programs toward launch. At the same time, we have continued to reduce our operating costs, which, together with our current cash position, keeps us well prepared as customer deployments move forward. We have reduced our “Net Cash Used in Operating Activities” from $16.6M in Q2 2026 to $8.5M in Q3 2026. Looking ahead to the remainder of 2026, our priorities remain the same: maintaining a disciplined cost structure and aligning our production investments with customer demand, so that we are ready to support 5G chipset volume as shipments ramp more significantly.”
+Liquidity
+The Company’s existing sources of liquidity as of September 30, 2026, include cash and cash equivalents of $17.2 million, net accounts receivable of $0.5 million, and inventory of $3.3 million. GCT currently has an effective universal shelf registration statement on Form S-3 that allows the Company to raise up to $200.0 million through the issuance of securities, including $120.0 million for an at-the-market (“ATM”) agreement. During the quarter ended September 30, 2026, GCT extended the maturities of $26.5 million of loans by one year.
+5G Outlook
+As customers take longer than originally expected to implement GCT’s 5G chipsets into their products and convert development programs into purchase orders, the Company now expects the ramp in 5G shipments to extend into the first half of 2027. Importantly, GCT has not lost any customers because of these extended timelines, its customer programs remain in active development, and the Company continued to expand its customer base in the third quarter.
+Conference Call
+The Company will hold a conference call and live webcast at 4:30 p.m. ET or 1:30 p.m. PST, which will be open to the public. During the conference call, the Company will discuss business updates and review the financial results, followed by a Q&A period.
+Date: Thursday, November 12, 2026
+Time: 4:30 p.m. Eastern time (1:30 p.m. Pacific time)
+Dial-in information: Please register in advance of the call here.
+Webcast (listen-only): To listen to the webcast use the following LINK.
+A replay of the webcast will be available via the Investors section of the GCT website at investors.gctsemi.com.
+About GCT Semiconductor Holding, Inc.
+GCT is a leading fabless designer and supplier of 5G, 4G LTE and satellite semiconductor solutions powering the AI data pipeline and enabling advanced wireless connectivity. GCT's market-proven solutions are optimized to enable fast and reliable connectivity to devices such as CPEs, mobile hotspots, routers, M2M applications, smartphones, etc., including for edge computing and direct-to-device applications, for the world's top wireless carriers including satellite connectivity providers and terrestrial mobile operators. GCT is committed to delivering the high-performance, low-latency wireless technologies that form the backbone of the AI-edge data pipeline. GCT's system-on-chip solutions integrate radio frequency, baseband modem and digital signal processing functions, therefore offering complete platform solutions with small form factors, low power consumption, high performance, high reliability, and cost-effectiveness.
+For more information, visit www.gctsemi.com.
+Note Regarding Use of Non-GAAP Financial Measures
+To supplement our financial statements presented in accordance with accounting principles generally accepted in the United States (“GAAP”), this earnings release and the accompanying tables and the related earnings conference call contain certain non-GAAP financial measures, including earnings or losses before interest, taxes, depreciation and amortization (“EBITDA”) and Adjusted EBITDA. We believe these financial measures provide useful information to investors with which to analyze our operating trends and performance.
+In computing EBITDA, we start with net loss and exclude interest expense, interest income, income taxes and depreciation and amortization expenses. In computing Adjusted EBITDA, we start with EBITDA and exclude the following: stock-based compensation, gain/loss on foreign currency transactions, net, change in fair value of common stock forward liability, change in fair value of warrant liabilities and change in fair value of convertible promissory notes.
+Management uses EBITDA and Adjusted EBITDA for business planning purposes, including managing our business against internally projected results of operations and measuring our performance. Management believes that these non-GAAP measures provide useful supplemental information to investors regarding our ongoing operations by eliminating certain items that are not directly related to ongoing operations or impact the generation of current or future revenues, such as non-cash expenses. Additionally, because of varying available valuation methodologies and subjective assumptions that can impact a company’s non-cash operating expenses, we believe that providing non-GAAP financial measures that primarily exclude non-cash expense allows for more meaningful comparisons between our core business operating results and those of other companies, as well as providing us with an important tool for financial and operational decision making and for evaluating our own core business operating results over different periods of time. Management considers certain of these adjustments, such as changes in the fair value of our common stock forward liability, warrant liabilities and convertible promissory notes, and foreign currency gains and losses, to be unpredictable and dependent on a considerable number of factors that are outside of our control and are not necessarily reflective of operational performance during a period.
+These non-GAAP results should not be considered an alternative to, or a substitute for, GAAP financial information, and may differ from similarly titled non-GAAP measures used by other companies. GCT has included these non-GAAP measures to give investors an opportunity to see the Company’s financial results as viewed by management. A reconciliation of the comparable GAAP financial measures to the non-GAAP financial measures is provided at the end of the Company’s unaudited consolidated financial statements presented below.
+Cautionary Statement Regarding Forward-Looking Statements
+This press release contains certain forward-looking statements within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements include, without limitation, the Company’s expectations with respect to 5G chip shipment for the remainder of 2026; expected sequential growth in fourth-quarter 2026 revenue; expansion into connectivity markets; the 5G outlook and anticipated growth of 5G markets and opportunities; collaboration with strategic partners; the ability for the Company to improve financial performance; the ability of the Company to raise sufficient capital to fund its operations; the ability of the Company’s technology and products to address new markets and meet customer demands; the execution of go-to-market strategies; and the anticipated size of markets addressable by the Company’s products. Words such as “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,” “strategy,” “future,” “opportunity,” “plan,” “outlook,” “potential,” “could,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result,” and similar expressions are intended to identify such forward-looking statements. Forward-looking statements are predictions, projections and other statements about future events that are based on current expectations and assumptions and, as a result, are subject to significant risks and uncertainties that could cause actual results to differ materially from the expected results. Many of these factors are outside the Company's control and are difficult to predict. Factors that may cause actual future events to differ materially from the expected results, include, but are not limited to: the ability of the Company to develop its 5G products and generate revenue; the ability to enter into and meet the obligations under partnership and collaboration agreements; the ability of the Company to grow and manage growth profitability and retain its key employees; the Company's financial and business performance, including the Company's financial projections and business metrics; changes in the Company's strategy, future operations, financial position, estimated revenues and losses, forecasts, projected costs, prospects and plans; the Company's ability to anticipate the future market demands and future needs of its customers; the impact of component shortages, suppliers' lack of production capacity, natural disasters or pandemics on the Company's sourcing operations and supply chain; the Company's future capital requirements and sources and uses of cash, and its ability to obtain additional financing on acceptable terms, or at all; the ability to implement business plans, forecasts, and other expectations, including the growth of the 5G market; the risk that the Company may not be able to repay its debt; the risk of economic downturns that affect the Company's business operations and financial performance; the risk that the Company may not be able to develop and design products that are acceptable to its customers; macroeconomic conditions, including market conditions, global and economic conditions, labor disputes, inflationary impacts, and disruptions to the global supply chain; the imposition of duties and tariffs and other trade barriers and retaliatory countermeasures implemented by the U.S. and other governments; and other risks and uncertainties indicated from time to time in the Company’s filings with the Securities and Exchange Commission (“SEC”), including the Annual Report on Form 10-K for the fiscal year ended December 31, 2025, and subsequent Quarterly Reports on Form 10-Q, and those disclosures under the "Risk Factors" section therein. The foregoing list of factors is not exhaustive. Forward-looking statements speak only as of the date they are made. Readers are cautioned not to put undue reliance on forward-looking statements, and the Company assumes no obligation and does not intend to update or revise these forward-looking statements, whether as a result of new information, future events, or otherwise.
+Contacts:
+• | Investor relations website: investors.gctsemi.com
+• | Investor relations contact: Gateway Group, Ralf Esper, GCT@gateway-grp.com
+• | Media contact: media@gctsemi.com
+GCT Semiconductor Holding, Inc.
+Consolidated Balance Sheets
+(unaudited, in thousands, except per share amounts)
+September 30, 2026 | December 31, 2025
+Assets
+Current assets:
+Cash and cash equivalents | $ | 17,155 | $ | 590
+Accounts receivable, net | 484 | 2,597
+Inventory | 3,328 | 947
+Contract assets | 4,172 | 5,432
+Prepaid expenses and other current assets | 8,917 | 2,318
+Total current assets | 34,056 | 11,884
+Property and equipment, net | 3,897 | 2,671
+Operating lease right-of-use assets | 245 | 708
+Other assets | 313 | 381
+Total assets | $ | 38,511 | $ | 15,644
+Liabilities and Stockholders’ Deficit
+Current liabilities:
+Accounts payable | $ | 224 | $ | 628
+Contract liabilities | 60 | —
+Accrued and other current liabilities | 12,870 | 21,680
+Common stock forward liability | — | 3
+Borrowings | 52,415 | 56,589
+Operating lease liabilities, current | 206 | 686
+Total current liabilities | 65,775 | 79,586
+Long-term borrowings | 2,208 | —
+Convertible promissory notes | 5,226 | 6,046
+Net defined benefit liabilities | 8,320 | 7,598
+Long-term operating lease liabilities | 47 | 41
+Other taxes payable | 2,671 | 2,265
+Warrant liabilities | 12,101 | 2,870
+Other liabilities | 816 | 531
+Total liabilities | 97,164 | 98,937
+Stockholders’ deficit:
+Common stock | 9 | 6
+Additional paid-in capital | 581,281 | 520,925
+Accumulated other comprehensive income (loss) | (92 | ) | 1,181
+Accumulated deficit | (639,851 | ) | (605,405 | )
+Total stockholders’ deficit | (58,653 | ) | (83,293 | )
+Total liabilities and stockholders’ deficit | $ | 38,511 | $ | 15,644
+GCT Semiconductor Holding, Inc.
+Consolidated Statements of Operations
+(unaudited, in thousands, except per share amounts)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net revenues:
+Product | $ | 499 | $ | 148 | $ | 1,373 | $ | 647
+Service | 570 | 282 | 2,587 | 1,461
+Total net revenues | 1,069 | 430 | 3,960 | 2,108
+Cost of net revenues:
+Product | 1,034 | 1,419 | 2,970 | 2,208
+Service | 119 | 61 | 353 | 484
+Total cost of net revenues | 1,153 | 1,480 | 3,323 | 2,692
+Gross profit (loss) | (84 | ) | (1,050 | ) | 637 | (584 | )
+Operating expenses:
+Research and development | 3,328 | 3,258 | 9,791 | 10,868
+Sales and marketing | 1,026 | 1,048 | 3,271 | 3,187
+General and administrative | 2,934 | 3,898 | 8,494 | 9,947
+Total operating expenses | 7,288 | 8,204 | 21,556 | 24,002
+Loss from operations | (7,372 | ) | (9,254 | ) | (20,919 | ) | (24,586 | )
+Interest expense | (895 | ) | (1,783 | ) | (3,916 | ) | (4,385 | )
+Gain (loss) on foreign currency transactions, net | (5,382 | ) | 1,320 | (2,024 | ) | (1,876 | )
+Change in fair value of common stock forward liability | — | 16 | 3 | 311
+Change in fair value of common stock warrant liabilities | 6,214 | (3,812 | ) | (9,231 | ) | (3,173 | )
+Change in fair value of convertible promissory notes | (42 | ) | (164 | ) | (1,548 | ) | (340 | )
+Other income, net | 165 | 6 | 317 | 16
+Loss before provision for income taxes | (7,312 | ) | (13,671 | ) | (37,318 | ) | (34,033 | )
+Provision for income taxes | 76 | 178 | 312 | 322
+Net loss | $ | (7,388 | ) | $ | (13,849 | ) | $ | (37,630 | ) | $ | (34,355 | )
+Net loss per common share:
+Basic and diluted | $ | (0.08 | ) | $ | (0.25 | ) | $ | (0.47 | ) | $ | (0.67 | )
+Weighted average common shares outstanding, basic and diluted | 91,862 | 55,462 | 80,257 | 51,619
+GCT Semiconductor Holding, Inc.
+Reconciliation of GAAP to Non-GAAP
+(unaudited, in thousands)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Net loss | $ | (7,388 | ) | $ | (13,849 | ) | $ | (37,630 | ) | $ | (34,355 | )
+Provision for income taxes | 76 | 178 | 312 | 322
+Interest expense | 895 | 1,783 | 3,916 | 4,385
+Interest income | (180 | ) | (10 | ) | (340 | ) | (24 | )
+Depreciation and amortization | 568 | 346 | 1,464 | 1,026
+EBITDA | (6,029 | ) | (11,552 | ) | (32,278 | ) | (28,646 | )
+Stock-based compensation | 350 | 1,871 | 1,139 | 2,894
+(Gain) loss on foreign currency transactions, net | 5,382 | (1,320 | ) | 2,024 | 1,876
+Change in fair value of common stock forward liability | — | (16 | ) | (3 | ) | (311 | )
+Change in fair value of common stock warrant liabilities | (6,214 | ) | 3,812 | 9,231 | 3,173
+Change in fair value of convertible promissory notes | 42 | 164 | 1,548 | 340
+Adjusted EBITDA | $ | (6,469 | ) | $ | (7,041 | ) | $ | (18,339 | ) | $ | (20,674 | )

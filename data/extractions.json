@@ -1000,5 +1000,118 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1851961/000092963826004266/exhibit99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1851961/000092963826004266/0000929638-26-004266-index.htm",
     "saved_at": "2026-11-18T06:08:00+08:00"
+  },
+  {
+    "cik": "1414932",
+    "company": "Oaktree Specialty Lending Corp",
+    "accession": "0001193125-26-464682",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 22.626,
+        "unit": "USD millions",
+        "quote": "Net increase (decrease) in net assets resulting from operations | $ | 22,626"
+      },
+      "diluted_eps": {
+        "value": 0.26,
+        "unit": "USD per share",
+        "quote": "Earnings (loss) per common share — basic and diluted | $ | 0.26"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the company made progress in fiscal 2026 on reducing non-accrual investments, diversifying the portfolio and keeping a flexible balance sheet.",
+        "quote": "During fiscal year 2026, we made progress on our strategic priorities: reducing non-accrual investments, further diversifying our portfolio and maintaining a flexible balance sheet"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the September bond issue strengthened the capital structure and gives flexibility to invest selectively.",
+        "quote": "Our September bond issuance strengthened our capital structure and supports a well-staggered debt maturity profile, providing flexibility to selectively deploy into opportunities that we believe offer attractive risk-adjusted returns."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "The company says total investment income fell in the quarter mainly because of a lower average portfolio balance.",
+        "quote": "The decrease for the quarter was primarily driven by a lower average portfolio balance."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses progress on priorities and a stronger capital structure, while the release says investment income and net investment income fell."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1414932-0001193125-26-464682.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1414932/000119312526464682/d163826dex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1414932/000119312526464682/0001193125-26-464682-index.htm",
+    "saved_at": "2026-11-19T06:08:17+08:00"
+  },
+  {
+    "cik": "1111741",
+    "company": "DYNARESOURCE, INC.",
+    "accession": "0001193125-26-465082",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 10.058634,
+        "unit": "USD millions",
+        "quote": "Total revenue | $ | 10,058,634"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -4.438836,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | (4,438,836)"
+      },
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "The company says its full-year 2026 production outlook is uncertain and depends on the ramp-up of its remaining mining contractor.",
+      "quote": "The Company's full-year 2026 production outlook is uncertain as it will depend on the successful transition and ramp-up of its remaining contractor"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says lower grades, more dilution and unusually heavy seasonal rain hurt the quarter's results.",
+        "quote": "While lower grades, increased dilution and unusually heavy seasonal rainfall impacted results, we remain focused on completing the transition to a single underground mining contractor and improving access to higher-grade mining areas."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says security measures from September 2026 have improved grades, with daily averages above 3 g/t gold.",
+        "quote": "The additional security measures implemented in September 2026 have resulted in improved grades with daily averages remaining above 3 g/t gold."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO believes the improvements at the mine and plant are building a base for steadier production and better cost performance.",
+        "quote": "Although operational challenges remain, we believe the improvements implemented across the mine and processing plant are strengthening the foundation for more consistent production, improved cost performance and sustainable long-term value creation."
+      },
+      {
+        "id": "M4",
+        "topic": "costs",
+        "claim": "The company says operating costs fell from Q3 2025, mainly because less ore was mined and processed.",
+        "quote": "operating costs decreased to $9,345,080 from $11,083,333 in Q3 2025, primarily reflecting lower tonnage mined and processed."
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The CEO names lower grades, dilution and heavy rain as hits to results and says operational challenges remain, while pointing to improvements under way."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1111741-0001193125-26-465082.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1111741/000119312526465082/dynr-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1111741/000119312526465082/0001193125-26-465082-index.htm",
+    "saved_at": "2026-11-19T06:08:17+08:00"
   }
 ]

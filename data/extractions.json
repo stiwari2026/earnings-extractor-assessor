@@ -1113,5 +1113,120 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1111741/000119312526465082/dynr-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1111741/000119312526465082/0001193125-26-465082-index.htm",
     "saved_at": "2026-11-19T06:08:17+08:00"
+  },
+  {
+    "cik": "50471",
+    "company": "ReposiTrak, Inc.",
+    "accession": "0001437749-26-037543",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 5.784286,
+        "unit": "USD millions",
+        "quote": "Revenue | 5,784,286"
+      },
+      "operating_income": {
+        "value": 1.661006,
+        "unit": "USD millions",
+        "quote": "Income from operations | 1,661,006"
+      },
+      "net_income": {
+        "value": 1.530845,
+        "unit": "USD millions",
+        "quote": "Net income | 1,530,845"
+      },
+      "diluted_eps": {
+        "value": 0.08,
+        "unit": "USD per share",
+        "quote": "Diluted income per share | 0.08"
+      }
+    },
+    "guidance": {
+      "text": "Management expects revenue to improve sequentially through fiscal 2027 and expects another year of growth.",
+      "quote": "we anticipate sequential revenue improvement as we progress through fiscal 2027 and expect to deliver another year of growth"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says Touchless Retail is already generating revenue that will benefit the second fiscal quarter.",
+        "quote": "Our Touchless Retail solution is rapidly gaining momentum as we collaborate with SPAR Group’s field organization and is already generating revenue that will benefit the second fiscal quarter."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says the business continues to deliver strong operating profitability with disciplined cost management.",
+        "quote": "Our business continues to deliver strong operating profitability, supported by a scalable technology platform and disciplined cost management."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO expects sequential revenue improvement through fiscal 2027 and another year of growth.",
+        "quote": "we anticipate sequential revenue improvement as we progress through fiscal 2027 and expect to deliver another year of growth"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of two significant growth catalysts, strong operating profitability and another year of growth, and does not dwell on the 3% revenue fall."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/50471-0001437749-26-037543.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/ex_1048114.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/50471/000143774926037543/0001437749-26-037543-index.htm",
+    "saved_at": "2026-11-20T06:08:08+08:00"
+  },
+  {
+    "cik": "1763950",
+    "company": "Lantern Pharma Inc.",
+    "accession": "0001493152-26-052991",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -5.4,
+        "unit": "USD millions",
+        "quote": "Loss from operations was approximately $5.4 million for the three months ended September 30, 2026"
+      },
+      "net_income": {
+        "value": 0.7,
+        "unit": "USD millions",
+        "quote": "After including the non-cash warrant gain, net income was approximately $0.7 million (or $0.05 per basic share) for the three months ended September 30, 2026"
+      },
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "costs",
+        "claim": "The release says R&D expenses fell about 36% year on year to about $1.6 million in the third quarter.",
+        "quote": "R&D expenses decreased approximately 36% year over year, to approximately $1.6 million for Q3 2026."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The release says the operating loss was about $5.4 million including a $2.0 million settlement accrual, or about $3.4 million without it.",
+        "quote": "Loss from operations for Q3 2026 was approximately $5.4 million, including the $2.0 million proposed settlement accrual; excluding the accrual, loss from operations was approximately $3.4 million."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The release says the company closed a financing of about $4.0 million gross at the end of the quarter.",
+        "quote": "The Company closed a financing at the end of the quarter for gross proceeds of approximately $4.0 million."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The release describes significant developments and trial progress, but also reports a settlement accrual and the CEO's resignation. It has no quoted words from an executive."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1763950-0001493152-26-052991.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226052991/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226052991/0001493152-26-052991-index.htm",
+    "saved_at": "2026-11-20T06:08:08+08:00"
   }
 ]

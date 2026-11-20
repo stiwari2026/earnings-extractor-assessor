@@ -1228,5 +1228,96 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226052991/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1763950/000149315226052991/0001493152-26-052991-index.htm",
     "saved_at": "2026-11-20T06:08:08+08:00"
+  },
+  {
+    "cik": "745732",
+    "company": "ROSS STORES, INC.",
+    "accession": "0000745732-26-000047",
+    "release_date": "2026-11-19",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 6255.954,
+        "unit": "USD millions",
+        "quote": "Sales | $ | 6,255,954"
+      },
+      "operating_income": {
+        "value": 766.787,
+        "unit": "USD millions",
+        "quote": "Operating income | 766,787"
+      },
+      "net_income": {
+        "value": 606.321,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 606,321"
+      },
+      "diluted_eps": {
+        "value": 1.91,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.91"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter, Ross keeps its outlook for comparable store sales growth of 4% to 5%, on top of last year's 9% gain.",
+      "quote": "For the fourth quarter, we are maintaining our outlook for comparable store sales growth of 4% to 5%, on top of last year’s strong 9% gain."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO is very pleased with third-quarter sales and earnings growth, despite tougher comparisons with last year.",
+        "quote": "We are extremely pleased with our third quarter sales and earnings growth, particularly given the more challenging comparisons we faced."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Third-quarter operating margin was 12.3%, up 70 basis points on last year and above the plan of 11.7% to 12.0%.",
+        "quote": "Third quarter operating margin of 12.3% increased 70 basis points compared to last year, above the Company’s plan of 11.7% to 12.0%."
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "Customer traffic was the main driver of comparable store sales growth.",
+        "quote": "As a result, customer traffic remained the primary driver of our comparable store sales growth."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "Ross raises its fiscal 2026 earnings per share projection to $8.75 to $8.84.",
+        "quote": "we are increasing our 2026 fiscal year earnings per share projections to be in the range of $8.75 to $8.84."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO is \"extremely pleased\", says results exceeded expectations and raises the full-year earnings per share projection."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/745732-0000745732-26-000047.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573226000047/q326exhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/745732/000074573226000047/0000745732-26-000047-index.htm",
+    "saved_at": "2026-11-21T06:08:16+08:00"
+  },
+  {
+    "cik": "313364",
+    "company": "MESA ROYALTY TRUST/TX",
+    "accession": "0001104659-26-130124",
+    "release_date": "2026-11-19",
+    "period_end": "2026-11-19",
+    "period_label": "November 2026 distribution notice (no quarterly results given)",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/313364-0001104659-26-130124.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926130124/tm2630218d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/313364/000110465926130124/0001104659-26-130124-index.htm",
+    "saved_at": "2026-11-21T06:08:16+08:00"
   }
 ]

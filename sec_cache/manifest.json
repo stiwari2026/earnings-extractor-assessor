@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T10:10:43+08:00",
+  "fetched_at": "2026-11-21T10:48:57+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,67 +16,67 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-19&enddt=2026-11-20",
       "ok": true,
-      "detail": "HTTP 200, 31 KB in 137 ms"
+      "detail": "HTTP 200, 31 KB in 205 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 25 ms"
+      "detail": "HTTP 200, 149 KB in 30 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 22 ms"
+      "detail": "HTTP 200, 156 KB in 19 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 24 ms"
+      "detail": "HTTP 200, 153 KB in 21 ms"
     },
     {
       "name": "MOOG INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 134 ms"
+      "detail": "HTTP 200, 2 KB in 54 ms"
     },
     {
       "name": "MOOG INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/ex991-112026.htm",
       "ok": true,
-      "detail": "HTTP 200, 445 KB in 60 ms"
+      "detail": "HTTP 200, 445 KB in 55 ms"
     },
     {
       "name": "Magnera Corp filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 28 ms"
+      "detail": "HTTP 200, 1 KB in 68 ms"
     },
     {
       "name": "Magnera Corp press release",
       "url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 372 KB in 60 ms"
+      "detail": "HTTP 200, 372 KB in 141 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 229 ms"
+      "detail": "HTTP 200, 3,174 KB in 40 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 444 ms"
+      "detail": "HTTP 200, 4,447 KB in 25 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 323 ms"
+      "detail": "HTTP 200, 2,745 KB in 38 ms"
     },
     {
       "name": "MOOG INC. company facts",
@@ -88,13 +88,13 @@
       "name": "Magnera Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
       "ok": true,
-      "detail": "HTTP 200, 2,904 KB in 24 ms"
+      "detail": "HTTP 200, 2,904 KB in 51 ms"
     },
     {
       "name": "ROSS STORES, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000745732.json",
       "ok": true,
-      "detail": "HTTP 200, 2,983 KB in 118 ms"
+      "detail": "HTTP 200, 2,983 KB in 291 ms"
     },
     {
       "name": "MESA ROYALTY TRUST/TX company facts",

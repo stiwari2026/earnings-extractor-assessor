@@ -1,0 +1,313 @@
+Company: MOOG INC. (CIK 67887)
+Accession: 0001628280-26-075170
+Results released: 2026-11-20
+Press release: https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/ex991-112026.htm
+Filing: https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/0001628280-26-075170-index.htm
+Saved: 2026-11-22T06:08:10+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex991-112026.htm EX-99.1
+Release Date: | November 20, 2026
+IMMEDIATE
+Moog Inc. Delivers Record Fiscal 2026 Results;
+Guides Another Strong Year for Fiscal 2027
+East Aurora, NY -- Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems, today reported record fiscal 2026 results for sales, adjusted segment operating margin, adjusted diluted net earnings per share and free cash flow, along with a strong fiscal fourth quarter.
+“Fiscal 2026 was a milestone year for the company. We delivered record results and achieved the goals we established at our 2023 Investor Day," said Pat Roche, CEO. "These results reflect our employees' dedication to improving how we operate and better serving our customers. I'm proud of what we accomplished in our 75th anniversary year and confident in our ability to deliver sustained, profitable growth and long-term value creation."
+(in millions, except per share results) | Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | Deltas | October 3, 2026 | September 27, 2025 | Deltas
+Net sales | $ | 1,254 | $ | 1,049 | 20% | $ | 4,523 | $ | 3,861 | 17%
+Segment operating margin | 14.2 | % | 11.9 | % | 230 bps | 13.9 | % | 11.6 | % | 230 bps
+Adjusted segment operating margin (1) | 14.1 | % | 13.7 | % | 40 bps | 14.2 | % | 13.0 | % | 120 bps
+Net earnings | $ | 107 | $ | 64 | 66% | $ | 420 | $ | 235 | 79%
+Adjusted net earnings(1) | $ | 108 | $ | 82 | 31% | $ | 396 | $ | 279 | 42%
+Diluted net earnings per share | $ | 3.35 | $ | 2.01 | 67% | $ | 13.11 | $ | 7.33 | 79%
+Adjusted diluted net earnings per share(1) | $ | 3.37 | $ | 2.56 | 32% | $ | 12.36 | $ | 8.69 | 42%
+Net cash provided (used) by operating activities | $ | 198 | $ | 241 | $ | (43) | $ | 443 | $ | 273 | $ | 170
+Free cash flow(1) | $ | 156 | $ | 199 | $ | (43) | $ | 307 | $ | 128 | $ | 179
+(1) See the reconciliations of adjusted financial measures to the most directly comparable U.S. GAAP measures included in the financial statements herein for the periods ended October 3, 2026 and September 27, 2025.
+Quarter Highlights
+•Record quarter net sales in all four segments.
+•Segment operating margin increased due to the absence of the prior year's legal settlement charges, the current quarter's gain on the sale of a non-core business and stronger business performance.
+•Adjusted segment operating margin increased due to stronger business performance.
+•Increases in diluted net earnings per share and adjusted diluted net earnings per share were primarily driven by business performance.
+•Free cash flow generation decreased due to a greater use of working capital.
+•Twelve-month backlog increased 14% to $3.4 billion, reflecting continued demand across all markets.
+Year Highlights
+•Record annual net sales, reflecting strength across all four segments.
+•Segment operating margin benefitted from lower simplification and other charges, $30 million of refund claims related to previously incurred International Emergency Economic Powers Act ("IEEPA") tariffs and stronger business performance.
+•Adjusted segment operating margin increased 70 basis points due to the tariff refund and 50 basis points due to stronger business performance.
+•Diluted net earnings per share increased significantly due to stronger business performance and income tax benefits attributable to current and prior fiscal years.
+•Adjusted diluted net earnings per share was driven by stronger business performance.
+•Free cash flow improved, reflecting higher earnings as well as effective management of working capital.
+Shaping the way our world moves ™
+1
+Quarter Segment Results
+Sales in the fourth quarter of 2026 were $1.3 billion, an increase of 20% compared to the fourth quarter of 2025. Space and Defense sales increased 27% to $389 million, reflecting broad-based defense demand including demand for missile controls and for spacecraft components. Military Aircraft sales increased 20% to $283 million, driven by higher OEM activity on production and funded development programs. Commercial Aircraft sales increased 13% to $286 million, driven by growth in aftermarket and higher OEM production levels. Industrial sales increased 17% to $297 million, driven by strong demand for data center cooling pumps, as well as the timing of medical orders.
+Segment operating margin in the fourth quarter of 2026 was 14.2%, an increase of 230 basis points compared to the fourth quarter of 2025. Space and Defense operating margin increased 340 basis points to 13.6% due to the absence of the prior year's legal settlement charges. Industrial operating margin increased 190 basis points to 14.6% due to the efficiencies from scaling to meet higher demand for data center cooling pumps. Military Aircraft operating margin increased 170 basis points to 15.7% driven by pricing and favorable mix. Commercial Aircraft operating margin increased 150 basis points to 12.9% due to the gain on the sale of a non-core business.
+Adjusted segment operating margin in the fourth quarter of 2026 expanded 40 basis points to 14.1% compared to the fourth quarter of 2025. The fourth quarter of 2025 adjusted segment operating margin excludes $18 million of charges, primarily related to the legal settlement. Space and Defense adjusted margin decreased 140 basis points to 13.7% as increased product development, business capture and operational readiness investments were partially offset by profitable sales growth. Commercial Aircraft adjusted margin decreased 50 basis points to 10.9% due to an unfavorable sales mix. Adjusted segment operating margins in Industrial and Military Aircraft increased 240 basis points and 160 basis points, respectively.
+Year Segment Results
+Sales for fiscal 2026 were $4.5 billion, an increase of 17% compared to fiscal 2025. Space and Defense sales increased 22% to $1.4 billion, reflecting broad-based defense demand including demand for missile controls, ground vehicles and spacecraft products. Military Aircraft sales increased 14% to $1.0 billion, driven by strong aftermarket and OEM activity, including peak levels of development on the MV-75 program. Commercial Aircraft sales increased 17% to $1.1 billion, driven by higher volume and pricing on various major production programs, as well as strong aftermarket sales. Industrial sales increased 15% to $1.1 billion, driven by strong demand for data center cooling pumps, as well as for medical applications.
+Segment operating margin for fiscal 2026 was 13.9%, an increase of 230 basis points compared to fiscal 2025. Industrial operating margin increased 350 basis points to 14.8%, primarily driven by the growing data center cooling pump business, the tariff refund and lower amounts of simplification and other charges. Military Aircraft operating margin expanded 280 basis points to 13.9% driven by favorable sales mix, pricing and by the absence of the prior year’s product development termination charge. Space and Defense operating margin increased 230 basis points to 14.1% due to the absence of the prior year's legal settlement charges and due to profitable sales growth. Commercial Aircraft operating margin increased 20 basis points to 12.6%. Significant pricing benefits, the tariff refund and a gain from a non-core business sale were mostly offset by an unfavorable sales mix, a full year's worth of tariff expense and the absence of the gain on the prior year's non-core product line sale.
+Adjusted segment operating margins for fiscal 2026 and 2025 exclude net charges of $17 million and $52 million, respectively. Excluding these items, adjusted segment operating margin in fiscal 2026 expanded 120 basis points to 14.2% compared to fiscal 2025. Adjusted segment operating margins in Industrial, Military Aircraft, and Space and Defense increased 250 basis points, 180 basis points and 120 basis points, respectively, while Commercial Aircraft decreased 30 basis points.
+Income Tax Expense
+The effective tax rate for fiscal 2026 includes income tax benefits related to U.S. federal research credits of $35 million attributable to prior years. We also recognized an income tax benefit of $8 million related to legal entity simplification initiatives. Adjusted 2026 net earnings and adjusted net earnings per share exclude both the $35 million and $8 million income tax benefits.
+Free Cash Flow Results
+Free cash flow for fiscal 2026 was $307 million, an increase of $179 million compared to 2025. Free cash flow improved due to higher earnings. In addition, working capital efficiency improved, as reflected in lower net working capital as a percentage of sales compared with the prior year. Capital expenditures were $136 million, relatively unchanged.
+Shaping the way our world moves ™
+2
+Fiscal 2027 Financial Guidance
+"We had a strong finish to a record year. Our fourth quarter was marked by record sales in each of our segments, a robust operating margin and strong cash generation," said Jennifer Walter, CFO. "In fiscal year 2027, we'll continue to build upon our financial strength with record sales, stronger operating performance and meaningful operating cash flows."
+(in millions, except per share results) | FY 2027 Guidance | FY 2026
+Net sales | $ | 4,950 | $ | 4,523
+Adjusted segment operating margin | 14.2 | % | 14.2 | %
+Adjusted segment operating margin, excluding the FY 2026 tariff refund | 14.2 | % | 13.5 | %
+Adjusted diluted net earnings per share(1) | $ | 13.30 | $ | 12.36
+Free cash flow(2) | $ | 250 | $ | 307
+(1) FY 2027 adjusted diluted net earnings per share is forecasted to be within range of +/- $0.25. (2) FY 2027 free cash flow anticipates $120 million for facilities investments to support secured growth in addition to our more typical capital expenditures.
+Conference Call Information
+In conjunction with today’s release, Pat Roche, CEO, and Jennifer Walter, CFO, will host a conference call today beginning at 10:00 a.m. ET, which will be simultaneously broadcast live online. Listeners can access the call and supplemental financial materials at www.moog.com/investors/communications.
+Cautionary Statement
+This press release contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which can be identified by words such as: “may,” “will,” “should,” “believes,” “expects,” “expected,” “intends,” “plans,” “projects,” “approximate,” “estimates,” “predicts,” “potential,” “outlook,” “forecast,” “anticipates,” “presume,” “assume” and other words and terms of similar meaning (including their negative counterparts or other various or comparable terminology). These forward-looking statements are made pursuant to the Private Securities Litigation Reform Act of 1995, are neither historical facts nor guarantees of future performance and are subject to several factors, risks and uncertainties, the impact or occurrence of which could cause actual results to differ materially from the expected results described in the forward-looking statements.
+Although it is not possible to create a comprehensive list of all factors that may cause our actual results to differ from the results expressed or implied by our forward-looking statements or that may affect our future results, some of these factors and other risks and uncertainties are described in Item 1A “Risk Factors” of our Annual Report on Form 10-K and in our other periodic filings with the Securities and Exchange Commission (“SEC”) and include, but are not limited to, risks relating to: (i) our operation in highly competitive markets with competitors who may have greater resources than we possess; (ii) our operation in cyclical markets that are sensitive to domestic and foreign economic conditions and events; (iii) current and future geopolitical conditions and events, including wars, armed conflicts, sanctions, trade restrictions and related disruptions to global markets and supply chains; (iv) our heavy dependence on government contracts that may not be fully funded, delayed or terminated; (v) our ability to remediate the material weakness in internal control over financial reporting and maintain effective disclosure controls and procedures; (vi) supply chain constraints and inflationary impacts on prices for raw materials and components used in our products; (vii) failure of our subcontractors or suppliers to perform their contractual obligations; (viii) risks related to information systems interruptions, intrusions, cybersecurity threats or new software implementations; and (ix) our accounting estimates for over-time contracts and any changes we may need to make thereto. You should evaluate all forward-looking statements made in this press release in the context of these risks and uncertainties.
+While we believe we have identified and discussed in our SEC filings the material risks affecting our business, there may be additional factors, risks and uncertainties not currently known to us or that we currently consider immaterial that may affect the forward-looking statements we make herein. Given these factors, risks and uncertainties, investors should not place undue reliance on forward-looking statements as predictive of future results. Any forward-looking statement speaks only as of the date on which it is made, and we disclaim any obligation to update any forward-looking statement made in this press release, except as required by applicable law.
+Shaping the way our world moves ™
+3
+Non-GAAP Financial Measures
+The press release also includes certain financial information that is not presented in accordance with Generally Accepted Accounting Principles (“GAAP”), including, but not limited to, “Segment Operating Income,” “Adjusted Segment Operating Income,” “Segment Operating Margin,” “Adjusted Segment Operating Margin,” “Adjusted Diluted Net Earnings Per Share,” “Adjusted Net Earnings,” “Adjusted Effective Tax Rate,” “Free Cash Flow” and “Free Cash Flow Conversion.” While we believe that these non-GAAP financial measures may be useful in evaluating our financial condition and results of operations, this information should be considered supplemental and is not a substitute for financial information prepared in accordance with GAAP. Adjustments to segment operating income and margin and net earnings per share have included restructuring charges; acquisition and integration-related costs; gains or losses on investments; asset impairments; litigation and regulatory matters; discrete tax items; changes in the fair value of contingent consideration; foreign exchange gains or losses; and other items that management does not consider representative of the Company’s underlying operating performance, including certain non-cash items. Reconciliations of the non-GAAP measures to the most directly comparable GAAP measures can be found in the accompanying materials.
+The press release also includes certain forward-looking non-GAAP financial guidance, including, but not limited to, “Segment Operating Margin,” “Adjusted Segment Operating Margin,” “Adjusted Diluted Net Earnings Per Share,” and “Free Cash Flow." The Company is unable to provide a reconciliation of such forward-looking non-GAAP guidance to the most directly comparable GAAP measures without unreasonable effort because certain items that are material to the comparable GAAP measures are not available and cannot be estimated with reasonable certainty. These items are dependent on future events that are difficult to predict and outside the Company’s control. These items may include, but are not limited to, restructuring charges; acquisition and integration-related costs; gains or losses on investments; asset impairments; litigation and regulatory matters; discrete tax items; changes in the fair value of contingent consideration; foreign exchange gains or losses; and other items that management does not consider representative of the Company’s underlying operating performance, including certain non-cash items. The timing and amount of these items may vary significantly from period to period and could have a material impact on the Company’s GAAP results, including, but not limited to, “Diluted Net Earnings Per Share."
+Contact:
+Aaron Astrachan
+Director, Investor Relations
+716.687.4225
+Shaping the way our world moves ™
+4
+Moog Inc.
+CONSOLIDATED STATEMENTS OF EARNINGS (UNAUDITED)
+(dollars in thousands, except per share data)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+Net sales | $ | 1,254,101 | $ | 1,049,138 | $ | 4,522,939 | $ | 3,860,624
+Cost of sales | 898,627 | 759,830 | 3,238,424 | 2,794,802
+Inventory write-down | — | 486 | — | 8,474
+Gross profit | 355,474 | 288,822 | 1,284,515 | 1,057,348
+Research and development | 35,990 | 23,679 | 120,326 | 93,671
+Selling, general and administrative | 171,669 | 152,151 | 607,941 | 553,968
+Interest | 17,205 | 18,489 | 65,718 | 72,075
+Asset impairment and fair value adjustment | 1,721 | 2,374 | 8,405 | 5,374
+Restructuring | 777 | 956 | 6,001 | 10,015
+Gain on sale of businesses | (5,805) | — | (5,805) | —
+Other | (2,446) | 1,371 | (1,891) | 9,597
+Earnings before income taxes | 136,363 | 89,802 | 483,820 | 312,648
+Income taxes | 29,157 | 25,396 | 63,899 | 77,620
+Net earnings | $ | 107,206 | $ | 64,406 | $ | 419,921 | $ | 235,028
+Net earnings per share
+Basic | $ | 3.39 | $ | 2.03 | $ | 13.27 | $ | 7.42
+Diluted | $ | 3.35 | $ | 2.01 | $ | 13.11 | $ | 7.33
+Weighted average common shares outstanding
+Basic | 31,607,820 | 31,666,286 | 31,641,966 | 31,680,280
+Diluted | 31,964,136 | 32,083,845 | 32,018,880 | 32,082,601
+Shaping the way our world moves ™
+5
+Moog Inc.
+RECONCILIATION TO ADJUSTED NET EARNINGS, ADJUSTED DILUTED NET EARNINGS PER SHARE AND ADJUSTED EFFECTIVE TAX RATE (UNAUDITED)
+(dollars in thousands, except per share data)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+Net earnings as reported | $ | 107,206 | $ | 64,406 | $ | 419,921 | $ | 235,028
+Adjustments to net earnings:
+Program terminations(1) | — | (231) | 1,324 | 7,834
+Simplification initiatives(2) | (625) | 5,176 | 12,906 | 23,380
+Dispute resolution(3) | — | 10,455 | — | 11,917
+Investment losses(4) | — | — | — | 3,000
+Acquisition and integration(5) | 184 | 2,477 | 3,790 | 2,958
+Other charges(6) | — | 573 | (1,067) | 2,573
+Corporate charges(7) | 788 | — | 7,126 | —
+Tax effect of above adjustments | 28 | (4,385) | (5,747) | (11,705)
+One-time tax expense (benefits)(8) | — | 3,700 | (42,613) | 3,700
+Net earnings as adjusted | $ | 107,581 | $ | 82,171 | $ | 395,640 | $ | 278,685
+Diluted net earnings per share
+As reported | $ | 3.35 | $ | 2.01 | $ | 13.11 | $ | 7.33
+As adjusted | $ | 3.37 | $ | 2.56 | $ | 12.36 | $ | 8.69
+Effective income tax rate
+As reported | 21.4 | % | 28.3 | % | 13.2 | % | 24.8 | %
+As adjusted | 21.3 | % | 24.1 | % | 22.1 | % | 23.5 | %
+The diluted net earnings per share associated with the adjustments in the table above may not reconcile when totaled due to rounding. (1) Adjustments include costs related to the termination of significant development, production, or support programs, such as write-off and impairment of inventory and long-lived assets, contract termination costs and other related charges or credits. (2) Adjustments include costs related to footprint rationalization, portfolio shaping and legal entity reorganization activities, such as facility closure costs, employee severance and retention costs, write-off and impairment of inventory and long-lived assets and other related charges or credits. (3) Charges include costs related to a dispute with a customer. The circumstances giving rise to this matter are unique and outside the ordinary course of business. These charges consist primarily of third-party legal services and related settlement costs. (4) Adjustments include impairment losses on minority investments. (5) Adjustments include acquisition-related activity, such as amortization of inventory fair value step-up and professional services fees. Charges also include costs related to integrating the business, such as employee severance and retention costs, professional services fees, legal entity and facility rationalization costs and other related charges or credits. (6) Adjustments include costs associated with business interruptions from natural causes, litigation matters and other charges or credits that are not part of normal operations. (7) Adjustments primarily include impairment charges related to long-lived assets used in corporate operations. (8) Adjustments include tax benefits associated with federal R&D tax credits attributable to prior fiscal years and legal-entity simplification initiatives.
+Shaping the way our world moves ™
+6
+Moog Inc.
+SEGMENT SALES AND RECONCILIATION TO SEGMENT OPERATING INCOME AND MARGINS (UNAUDITED)
+(dollars in thousands)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+Net sales:
+Space and Defense | $ | 389,204 | $ | 307,355 | $ | 1,363,170 | $ | 1,113,028
+Military Aircraft | 282,623 | 236,205 | 1,010,687 | 888,136
+Commercial Aircraft | 285,720 | 252,171 | 1,054,139 | 903,879
+Industrial | 296,554 | 253,407 | 1,094,943 | 955,581
+Net sales | $ | 1,254,101 | $ | 1,049,138 | $ | 4,522,939 | $ | 3,860,624
+Segment operating income:
+Space and Defense | $ | 52,991 | $ | 31,216 | $ | 191,756 | $ | 131,137
+13.6 | % | 10.2 | % | 14.1 | % | 11.8 | %
+Military Aircraft | 44,309 | 33,086 | 140,695 | 98,757
+15.7 | % | 14.0 | % | 13.9 | % | 11.1 | %
+Commercial Aircraft | 36,989 | 28,654 | 133,199 | 111,793
+12.9 | % | 11.4 | % | 12.6 | % | 12.4 | %
+Industrial | 43,215 | 32,084 | 161,507 | 107,919
+14.6 | % | 12.7 | % | 14.8 | % | 11.3 | %
+Segment operating income | 177,504 | 125,040 | 627,157 | 449,606
+14.2 | % | 11.9 | % | 13.9 | % | 11.6 | %
+Deductions from segment operating income:
+Interest expense | 17,205 | 18,489 | 65,718 | 72,075
+Equity-based compensation expense | 5,653 | 4,039 | 21,565 | 16,708
+Non-service pension expense | 1,143 | 1,864 | 4,557 | 7,719
+Corporate and other expenses, net | 17,140 | 10,846 | 51,497 | 40,456
+Earnings before income taxes | $ | 136,363 | $ | 89,802 | $ | 483,820 | $ | 312,648
+Shaping the way our world moves ™
+7
+Moog Inc.
+RECONCILIATION TO ADJUSTED SEGMENT OPERATING INCOME AND MARGINS (UNAUDITED)
+(dollars in thousands)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+Space and Defense operating income - as reported | $ | 52,991 | $ | 31,216 | $ | 191,756 | $ | 131,137
+Simplification initiatives | — | 2,092 | 5,361 | 4,566
+Dispute resolution | — | 10,455 | — | 11,917
+Acquisition and integration | 184 | 2,477 | 3,790 | 2,958
+Other charges | — | 62 | (1,067) | 62
+Space and Defense operating income - as adjusted | $ | 53,175 | $ | 46,302 | $ | 199,840 | $ | 150,640
+13.7 | % | 15.1 | % | 14.7 | % | 13.5 | %
+Military Aircraft operating income - as reported | $ | 44,309 | $ | 33,086 | $ | 140,695 | $ | 98,757
+Program terminations | — | (231) | 1,324 | 7,834
+Simplification initiatives | — | — | — | 591
+Other charges | — | 449 | — | 2,449
+Military Aircraft operating income - as adjusted | $ | 44,309 | $ | 33,304 | $ | 142,019 | $ | 109,631
+15.7 | % | 14.1 | % | 14.1 | % | 12.3 | %
+Commercial Aircraft operating income - as reported | $ | 36,989 | $ | 28,654 | $ | 133,199 | $ | 111,793
+Simplification initiatives | (5,805) | — | (5,805) | —
+Commercial Aircraft operating income - as adjusted | $ | 31,184 | $ | 28,654 | $ | 127,394 | $ | 111,793
+10.9 | % | 11.4 | % | 12.1 | % | 12.4 | %
+Industrial operating income - as reported | $ | 43,215 | $ | 32,084 | $ | 161,507 | $ | 107,919
+Simplification initiatives | 5,180 | 3,084 | 13,350 | 18,223
+Investment losses | — | — | — | 3,000
+Other charges | — | 62 | — | 62
+Industrial operating income - as adjusted | $ | 48,395 | $ | 35,230 | $ | 174,857 | $ | 129,204
+16.3 | % | 13.9 | % | 16.0 | % | 13.5 | %
+Segment operating income - as adjusted | $ | 177,063 | $ | 143,490 | $ | 644,110 | $ | 501,268
+14.1 | % | 13.7 | % | 14.2 | % | 13.0 | %
+Shaping the way our world moves ™
+8
+Moog Inc.
+CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+(dollars in thousands)
+October 3, 2026 | September 27, 2025
+ASSETS
+Current assets
+Cash and cash equivalents | $ | 75,609 | $ | 62,013
+Restricted cash | 186 | 200
+Receivables, net | 750,395 | 506,768
+Unbilled receivables | 847,682 | 744,352
+Inventories, net | 938,112 | 914,302
+Prepaid expenses and other current assets | 95,617 | 142,345
+Total current assets | 2,707,601 | 2,369,980
+Property, plant and equipment, net | 1,111,586 | 1,019,906
+Operating lease right-of-use assets | 52,763 | 52,799
+Goodwill | 866,908 | 842,313
+Intangible assets, net | 54,873 | 66,101
+Deferred income taxes | 22,842 | 22,459
+Other assets | 114,735 | 52,497
+Total assets | $ | 4,931,308 | $ | 4,426,055
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+Current liabilities
+Short-term borrowings | $ | 37,399 | $ | 27,994
+Current installments of long-term debt | 4,688 | 1,563
+Finance lease liability | 25,528 | 14,920
+Accounts payable | 371,773 | 318,402
+Accrued compensation | 149,751 | 106,040
+Contract advances and progress billings | 567,798 | 372,988
+Accrued liabilities and other | 272,530 | 277,161
+Total current liabilities | 1,429,467 | 1,119,068
+Long-term debt, excluding current installments | 816,594 | 944,123
+Long-term finance lease liability | 166,649 | 119,155
+Long-term pension and retirement obligations | 140,661 | 157,218
+Deferred income taxes | 33,973 | 32,600
+Other long-term liabilities | 59,008 | 61,336
+Total liabilities | 2,646,352 | 2,433,500
+Shareholders’ equity
+Common stock - Class A | 43,878 | 43,864
+Common stock - Class B | 7,402 | 7,416
+Additional paid-in capital | 1,199,062 | 839,328
+Retained earnings | 3,216,783 | 2,834,548
+Treasury shares | (1,333,208) | (1,209,200)
+Stock Employee Compensation Trust | (386,003) | (195,491)
+Supplemental Retirement Plan Trust | (325,891) | (170,191)
+Accumulated other comprehensive loss | (137,067) | (157,719)
+Total shareholders’ equity | 2,284,956 | 1,992,555
+Total liabilities and shareholders’ equity | $ | 4,931,308 | $ | 4,426,055
+Shaping the way our world moves ™
+9
+Moog Inc.
+CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+(dollars in thousands)
+Twelve Months Ended
+October 3, 2026 | September 27, 2025
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net earnings | $ | 419,921 | $ | 235,028
+Adjustments to reconcile net earnings to net cash provided (used) by operating activities:
+Depreciation | 111,303 | 94,013
+Amortization | 10,842 | 9,715
+Deferred income taxes | (7,695) | (6,545)
+Equity-based compensation expense | 21,565 | 16,708
+Gain on sale of businesses | (5,805) | —
+Asset impairment and inventory write-down | 8,405 | 13,848
+Other | (1,183) | 4,432
+Changes in assets and liabilities providing (using) cash:
+Receivables | (247,272) | (87,070)
+Unbilled receivables | (92,418) | (64,588)
+Inventories | (36,404) | (51,772)
+Accounts payable | 52,974 | 24,711
+Contract advances and progress billings | 188,419 | 81,597
+Accrued expenses | 67,381 | 3,743
+Accrued income taxes | (26,725) | (20,214)
+Net pension and post-retirement liabilities | 4,670 | 18,194
+Other assets and liabilities | (24,941) | 1,286
+Net cash provided (used) by operating activities | 443,037 | 273,086
+CASH FLOWS FROM INVESTING ACTIVITIES
+Acquisitions of businesses, net of cash acquired | — | (41,179)
+Purchase of property, plant and equipment | (135,822) | (144,731)
+Net proceeds from businesses sold | 8,935 | 13,487
+Other investing transactions | 764 | (2,833)
+Net cash provided (used) by investing activities | (126,123) | (175,256)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Other short-term borrowings | 15,000 | —
+Proceeds from revolving lines of credit | 1,565,400 | 1,229,500
+Payments on revolving lines of credit | (1,679,400) | (1,410,000)
+Proceeds from long-term debt | — | 250,000
+Proceeds from senior notes, net of issuance costs | 491,435 | —
+Payments on senior notes | (500,000) | —
+Payments on finance lease obligations | (22,739) | (10,159)
+Payment of dividends | (37,686) | (36,430)
+Proceeds from sale of treasury stock | 17,751 | 19,568
+Purchase of outstanding shares for treasury | (135,863) | (142,707)
+Proceeds from sale of stock held by SECT | 61,491 | 32,664
+Purchase of stock held by SECT | (77,027) | (28,985)
+Other financing transactions | (3,237) | (1,742)
+Net cash provided (used) by financing activities | (304,875) | (98,291)
+Effect of exchange rate changes on cash | 1,543 | (1,863)
+Increase (decrease) in cash, cash equivalents and restricted cash | 13,582 | (2,324)
+Cash, cash equivalents and restricted cash at beginning of year | 62,213 | 64,537
+Cash, cash equivalents and restricted cash at end of period | $ | 75,795 | $ | 62,213
+Shaping the way our world moves ™
+10
+Moog Inc.
+RECONCILIATION OF NET CASH PROVIDED (USED) BY OPERATING ACTIVITIES TO FREE CASH FLOW (UNAUDITED)
+(dollars in thousands)
+Three Months Ended | Twelve Months Ended
+October 3, 2026 | September 27, 2025 | October 3, 2026 | September 27, 2025
+Net cash provided (used) by operating activities | $ | 198,116 | $ | 240,689 | $ | 443,037 | $ | 273,086
+Purchase of property, plant and equipment | (42,130) | (41,690) | (135,822) | (144,731)
+Free cash flow | $ | 155,986 | $ | 198,999 | $ | 307,215 | $ | 128,355
+Adjusted net earnings | $ | 107,581 | $ | 82,171 | $ | 395,640 | $ | 278,685
+Free cash flow conversion | 145 | % | 242 | % | 78 | % | 46 | %
+Free cash flow is defined as net cash provided (used) by operating activities less the purchase of property, plant and equipment. Free cash flow conversion is defined as free cash flow divided by adjusted net earnings. Free cash flow and free cash flow conversion are not measures determined in accordance with GAAP and may not be comparable with the measures as used by other companies. However, management believes these adjusted financial measures may be useful in evaluating the liquidity, financial condition and results of operations of the Company. This information should be considered supplemental and is not a substitute for financial information prepared in accordance with GAAP.
+Shaping the way our world moves ™
+11

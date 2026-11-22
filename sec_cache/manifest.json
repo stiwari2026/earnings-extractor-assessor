@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T09:14:57+08:00",
+  "fetched_at": "2026-11-22T09:33:44+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,31 +16,31 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-20&enddt=2026-11-21",
       "ok": true,
-      "detail": "HTTP 200, 7 KB in 359 ms"
+      "detail": "HTTP 200, 7 KB in 1069 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 58 ms"
+      "detail": "HTTP 200, 148 KB in 51 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 23 ms"
+      "detail": "HTTP 200, 156 KB in 15 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 15 ms"
+      "detail": "HTTP 200, 153 KB in 14 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 68 ms"
+      "detail": "HTTP 200, 3,174 KB in 51 ms"
     },
     {
       "name": "Amazon company facts",
@@ -52,13 +52,13 @@
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 231 ms"
+      "detail": "HTTP 200, 2,745 KB in 97 ms"
     },
     {
       "name": "ROSS STORES, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000745732.json",
       "ok": true,
-      "detail": "HTTP 200, 2,983 KB in 62 ms"
+      "detail": "HTTP 200, 2,983 KB in 416 ms"
     },
     {
       "name": "MESA ROYALTY TRUST/TX company facts",
@@ -70,7 +70,7 @@
       "name": "Magnera Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
       "ok": true,
-      "detail": "HTTP 200, 2,904 KB in 257 ms"
+      "detail": "HTTP 200, 2,904 KB in 56 ms"
     }
   ],
   "files": [

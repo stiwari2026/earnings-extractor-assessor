@@ -1443,5 +1443,143 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/ef20086010_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/41719/000114036126044950/0001140361-26-044950-index.htm",
     "saved_at": "2026-11-22T06:08:10+08:00"
+  },
+  {
+    "cik": "1571996",
+    "company": "Dell Technologies Inc.",
+    "accession": "0001571996-26-000050",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-30",
+    "period_label": "quarter ended 30 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 54937,
+        "unit": "USD millions",
+        "quote": "Net revenue | $ | 54,937"
+      },
+      "operating_income": {
+        "value": 7442,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 7,442"
+      },
+      "net_income": {
+        "value": 5673,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 5,673"
+      },
+      "diluted_eps": {
+        "value": 8.82,
+        "unit": "USD per share",
+        "quote": "Earnings per share — diluted | $ | 8.82"
+      }
+    },
+    "guidance": {
+      "text": "Dell guides to fourth-quarter fiscal 2027 revenue of $56.3 billion, up 69% year over year.",
+      "quote": "Revenue | $ | 56.3 | 69 | %"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says the quarter brought record revenue of $54.9 billion and record EPS.",
+        "quote": "The team executed exceptionally well, driving record revenue of $54.9 billion, record EPS and a record $4.9 billion returned to shareholders"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CFO says operating expenses keep falling as a share of revenue, with non-GAAP operating expenses at 7% of revenue.",
+        "quote": "Operating expenses as a percentage of revenue continues to decline, while non-GAAP operating expenses fell to 7% of revenue, the lowest in our 42-year history."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The vice chairman and COO says the Infrastructure Solutions Group drives the vast majority of profit and growth.",
+        "quote": "We are now a different company, with Infrastructure Solutions Group (ISG) driving the vast majority of our profit and growth"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The vice chairman and COO expects record full-year revenue of $202 billion, up 78%.",
+        "quote": "We expect record full-year revenue of $202 billion, up 78%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The COO and CFO speak of record revenue, record EPS and accelerating demand, and raise the full-year revenue guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1571996-0001571996-26-000050.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/exhibit991earnings8kq3fy27.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/0001571996-26-000050-index.htm",
+    "saved_at": "2026-11-26T06:08:06+08:00"
+  },
+  {
+    "cik": "1327811",
+    "company": "Workday, Inc.",
+    "accession": "0001327811-26-000057",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 2705,
+        "unit": "USD millions",
+        "quote": "Total revenues | 2,705"
+      },
+      "operating_income": {
+        "value": 329,
+        "unit": "USD millions",
+        "quote": "Operating income | 329"
+      },
+      "net_income": {
+        "value": 237,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 237"
+      },
+      "diluted_eps": {
+        "value": 0.96,
+        "unit": "USD per share",
+        "quote": "Net income per share, diluted | $ | 0.96"
+      }
+    },
+    "guidance": {
+      "text": "Workday guides to fourth-quarter fiscal 2027 subscription revenues of $2.600 billion, growth of 10%.",
+      "quote": "Subscription revenues of $2.600 billion, representing growth of 10%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says AI products drove nearly $150 million in new ACV in Q3, more than three times the amount of a year ago.",
+        "quote": "in Q3, our AI products drove nearly $150 million in new ACV, more than three times what we delivered a year ago"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CFO raises fiscal 2027 subscription revenue guidance to $9.958 billion, growth of 13%, and non-GAAP operating margin guidance to 31.5%.",
+        "quote": "We are raising our fiscal 2027 subscription revenue guidance to $9.958 billion, growth of 13%, and increasing our fiscal 2027 non-GAAP operating margin guidance to 31.5%."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The release says operating income was $329 million, or 12.1% of revenues, against $259 million, or 10.7%, a year earlier.",
+        "quote": "Operating income was $329 million, or 12.1% of revenues, compared to an operating income of $259 million, or 10.7% of revenues, in the same period last year."
+      },
+      {
+        "id": "M4",
+        "topic": "costs",
+        "claim": "The release says restructuring expenses of $51 million affected operating income in the quarter.",
+        "quote": "Current quarter operating income was impacted by restructuring expenses of $51 million."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls recent quarters the strongest for innovation, and the CFO raises the full-year subscription revenue and margin guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1327811-0001327811-26-000057.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000057/wday-10312026x991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000057/0001327811-26-000057-index.htm",
+    "saved_at": "2026-11-26T06:08:06+08:00"
   }
 ]

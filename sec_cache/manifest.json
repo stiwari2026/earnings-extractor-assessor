@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T12:08:52+08:00",
+  "fetched_at": "2026-11-25T12:34:12+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,13 +16,13 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-24&enddt=2026-11-24",
       "ok": true,
-      "detail": "HTTP 200, 23 KB in 47 ms"
+      "detail": "HTTP 200, 23 KB in 49 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 110 ms"
+      "detail": "HTTP 200, 149 KB in 61 ms"
     },
     {
       "name": "Amazon filings list",
@@ -34,73 +34,73 @@
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 24 ms"
+      "detail": "HTTP 200, 154 KB in 20 ms"
     },
     {
       "name": "Dell Technologies Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 79 ms"
+      "detail": "HTTP 200, 1 KB in 184 ms"
     },
     {
       "name": "Dell Technologies Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/exhibit991earnings8kq3fy27.htm",
       "ok": true,
-      "detail": "HTTP 200, 574 KB in 68 ms"
+      "detail": "HTTP 200, 574 KB in 61 ms"
     },
     {
       "name": "Workday, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000057/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 34 ms"
+      "detail": "HTTP 200, 1 KB in 26 ms"
     },
     {
       "name": "Workday, Inc. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000057/0001327811-26-000057-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 9 KB in 88 ms"
+      "detail": "HTTP 200, 9 KB in 50 ms"
     },
     {
       "name": "Workday, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1327811/000132781126000057/wday-10312026x991.htm",
       "ok": true,
-      "detail": "HTTP 200, 324 KB in 56 ms"
+      "detail": "HTTP 200, 324 KB in 335 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 372 ms"
+      "detail": "HTTP 200, 3,175 KB in 37 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 37 ms"
+      "detail": "HTTP 200, 4,447 KB in 29 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 22 ms"
+      "detail": "HTTP 200, 2,745 KB in 61 ms"
     },
     {
       "name": "Dell Technologies Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001571996.json",
       "ok": true,
-      "detail": "HTTP 200, 3,481 KB in 241 ms"
+      "detail": "HTTP 200, 3,481 KB in 334 ms"
     },
     {
       "name": "Workday, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001327811.json",
       "ok": true,
-      "detail": "HTTP 200, 3,320 KB in 231 ms"
+      "detail": "HTTP 200, 3,320 KB in 30 ms"
     },
     {
       "name": "ROSS STORES, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000745732.json",
       "ok": true,
-      "detail": "HTTP 200, 2,983 KB in 305 ms"
+      "detail": "HTTP 200, 2,983 KB in 185 ms"
     },
     {
       "name": "MESA ROYALTY TRUST/TX company facts",
@@ -112,7 +112,7 @@
       "name": "Magnera Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000041719.json",
       "ok": true,
-      "detail": "HTTP 200, 2,904 KB in 32 ms"
+      "detail": "HTTP 200, 2,904 KB in 277 ms"
     }
   ],
   "files": [
